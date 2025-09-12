@@ -3,17 +3,6 @@
   "WorkspaceRootPath": "H:\\2025-26\\Asztali\\2025.09.05._Nyuszimul\u00E1tor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CD59C74-8CAB-487D-8D43-A4DE32136316}|2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor.csproj|h:\\2025-26\\asztali\\2025.09.05._nyuszimul\u00E1tor\\2025.09.05._nyuszimul\u00E1tor\\mezo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CD59C74-8CAB-487D-8D43-A4DE32136316}|2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor.csproj|solutionrelative:2025.09.05._nyuszimul\u00E1tor\\mezo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5CD59C74-8CAB-487D-8D43-A4DE32136316}|2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor.csproj|h:\\2025-26\\asztali\\2025.09.05._nyuszimul\u00E1tor\\2025.09.05._nyuszimul\u00E1tor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CD59C74-8CAB-487D-8D43-A4DE32136316}|2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor.csproj|solutionrelative:2025.09.05._nyuszimul\u00E1tor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\2024-25\\Asztali\\2024.09.11._Matrix\\2024.09.11._Matrix\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5CD59C74-8CAB-487D-8D43-A4DE32136316}|2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor.csproj|h:\\2025-26\\asztali\\2025.09.05._nyuszimul\u00E1tor\\2025.09.05._nyuszimul\u00E1tor\\nyul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CD59C74-8CAB-487D-8D43-A4DE32136316}|2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor.csproj|solutionrelative:2025.09.05._nyuszimul\u00E1tor\\nyul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,8 +11,20 @@
       "RelativeMoniker": "D:0:0:{5CD59C74-8CAB-487D-8D43-A4DE32136316}|2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor.csproj|solutionrelative:2025.09.05._nyuszimul\u00E1tor\\allat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5CD59C74-8CAB-487D-8D43-A4DE32136316}|2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor.csproj|h:\\2025-26\\asztali\\2025.09.05._nyuszimul\u00E1tor\\2025.09.05._nyuszimul\u00E1tor\\mezo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD59C74-8CAB-487D-8D43-A4DE32136316}|2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor.csproj|solutionrelative:2025.09.05._nyuszimul\u00E1tor\\mezo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5CD59C74-8CAB-487D-8D43-A4DE32136316}|2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor.csproj|h:\\2025-26\\asztali\\2025.09.05._nyuszimul\u00E1tor\\2025.09.05._nyuszimul\u00E1tor\\ieloleny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5CD59C74-8CAB-487D-8D43-A4DE32136316}|2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor.csproj|solutionrelative:2025.09.05._nyuszimul\u00E1tor\\ieloleny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD59C74-8CAB-487D-8D43-A4DE32136316}|2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor.csproj|h:\\2025-26\\asztali\\2025.09.05._nyuszimul\u00E1tor\\2025.09.05._nyuszimul\u00E1tor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD59C74-8CAB-487D-8D43-A4DE32136316}|2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor.csproj|solutionrelative:2025.09.05._nyuszimul\u00E1tor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CD59C74-8CAB-487D-8D43-A4DE32136316}|2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor.csproj|h:\\2025-26\\asztali\\2025.09.05._nyuszimul\u00E1tor\\2025.09.05._nyuszimul\u00E1tor\\nem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CD59C74-8CAB-487D-8D43-A4DE32136316}|2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor.csproj|solutionrelative:2025.09.05._nyuszimul\u00E1tor\\nem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,63 +34,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "H:\\2024-25\\Asztali\\2024.09.11._Matrix\\2024.09.11._Matrix\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\2024-25\\Asztali\\2024.09.11._Matrix\\2024.09.11._Matrix\\Program.cs",
-              "ToolTip": "H:\\2024-25\\Asztali\\2024.09.11._Matrix\\2024.09.11._Matrix\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\2024-25\\Asztali\\2024.09.11._Matrix\\2024.09.11._Matrix\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACEAAAARAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Nem.cs",
+              "DocumentMoniker": "H:\\2025-26\\Asztali\\2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor\\Nem.cs",
+              "RelativeDocumentMoniker": "2025.09.05._Nyuszimul\u00E1tor\\Nem.cs",
+              "ToolTip": "H:\\2025-26\\Asztali\\2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor\\Nem.cs",
+              "RelativeToolTip": "2025.09.05._Nyuszimul\u00E1tor\\Nem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T12:28:29.025Z",
+              "WhenOpened": "2025-09-10T08:01:13.639Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Mezo.cs",
               "DocumentMoniker": "H:\\2025-26\\Asztali\\2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor\\Mezo.cs",
               "RelativeDocumentMoniker": "2025.09.05._Nyuszimul\u00E1tor\\Mezo.cs",
-              "ToolTip": "H:\\2025-26\\Asztali\\2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor\\Mezo.cs*",
-              "RelativeToolTip": "2025.09.05._Nyuszimul\u00E1tor\\Mezo.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "ToolTip": "H:\\2025-26\\Asztali\\2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor\\Mezo.cs",
+              "RelativeToolTip": "2025.09.05._Nyuszimul\u00E1tor\\Mezo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T12:17:52.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Nyul.cs",
               "DocumentMoniker": "H:\\2025-26\\Asztali\\2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor\\Nyul.cs",
               "RelativeDocumentMoniker": "2025.09.05._Nyuszimul\u00E1tor\\Nyul.cs",
               "ToolTip": "H:\\2025-26\\Asztali\\2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor\\Nyul.cs",
               "RelativeToolTip": "2025.09.05._Nyuszimul\u00E1tor\\Nyul.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T11:13:05.867Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Allat.cs",
               "DocumentMoniker": "H:\\2025-26\\Asztali\\2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor\\Allat.cs",
               "RelativeDocumentMoniker": "2025.09.05._Nyuszimul\u00E1tor\\Allat.cs",
               "ToolTip": "H:\\2025-26\\Asztali\\2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor\\Allat.cs",
               "RelativeToolTip": "2025.09.05._Nyuszimul\u00E1tor\\Allat.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T10:53:20.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "IEloleny.cs",
               "DocumentMoniker": "H:\\2025-26\\Asztali\\2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor\\IEloleny.cs",
               "RelativeDocumentMoniker": "2025.09.05._Nyuszimul\u00E1tor\\IEloleny.cs",
@@ -102,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "H:\\2025-26\\Asztali\\2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor\\Program.cs",
               "RelativeDocumentMoniker": "2025.09.05._Nyuszimul\u00E1tor\\Program.cs",
-              "ToolTip": "H:\\2025-26\\Asztali\\2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor\\Program.cs*",
-              "RelativeToolTip": "2025.09.05._Nyuszimul\u00E1tor\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "ToolTip": "H:\\2025-26\\Asztali\\2025.09.05._Nyuszimul\u00E1tor\\2025.09.05._Nyuszimul\u00E1tor\\Program.cs",
+              "RelativeToolTip": "2025.09.05._Nyuszimul\u00E1tor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T10:47:12.647Z",
               "EditorCaption": ""

@@ -1,14 +1,21 @@
-//kívülről elérhető legyen a port
 const express = require("express");
 
 const app = express();
 
+app.use(express.urlencoded({ extended: true }));
 
-// MVC = ModelViewContoller
+// MVC = ModelViewController
 
-const catRoute = require("./api/routes/catRoutes");
+const catRoutes = require("./api/routes/catRoutes");
 
+const errorHandler = require("./api/middlewares/errorHandler");
 
-const errorHandle = requre("./api/middlewares/error")
-app.use("/", catRoute);
+const userRoutes = require("./api/routes/userRoutes");
+
+app.use("/", catRoutes);
+
+app.use("/users", userRoutes);
+
+app.use(errorHandler);
+
 module.exports = app;
