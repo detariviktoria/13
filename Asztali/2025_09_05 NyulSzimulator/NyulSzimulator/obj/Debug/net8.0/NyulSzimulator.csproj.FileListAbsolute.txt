@@ -1,0 +1,43 @@
+H:\2025-2026\13.bc AAF mobil\2025_09_05 NyulSzimulator\NyulSzimulator\bin\Debug\net8.0\NyulSzimulator.exe
+H:\2025-2026\13.bc AAF mobil\2025_09_05 NyulSzimulator\NyulSzimulator\bin\Debug\net8.0\NyulSzimulator.deps.json
+H:\2025-2026\13.bc AAF mobil\2025_09_05 NyulSzimulator\NyulSzimulator\bin\Debug\net8.0\NyulSzimulator.runtimeconfig.json
+H:\2025-2026\13.bc AAF mobil\2025_09_05 NyulSzimulator\NyulSzimulator\bin\Debug\net8.0\NyulSzimulator.dll
+H:\2025-2026\13.bc AAF mobil\2025_09_05 NyulSzimulator\NyulSzimulator\bin\Debug\net8.0\NyulSzimulator.pdb
+H:\2025-2026\13.bc AAF mobil\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025-2026\13.bc AAF mobil\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.AssemblyInfoInputs.cache
+H:\2025-2026\13.bc AAF mobil\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.AssemblyInfo.cs
+H:\2025-2026\13.bc AAF mobil\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.csproj.CoreCompileInputs.cache
+H:\2025-2026\13.bc AAF mobil\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.dll
+H:\2025-2026\13.bc AAF mobil\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\refint\NyulSzimulator.dll
+H:\2025-2026\13.bc AAF mobil\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.pdb
+H:\2025-2026\13.bc AAF mobil\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.genruntimeconfig.cache
+H:\2025-2026\13.bc AAF mobil\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\ref\NyulSzimulator.dll
+H:\13. Osztály\aaf\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.GeneratedMSBuildEditorConfig.editorconfig
+H:\13. Osztály\aaf\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.AssemblyInfoInputs.cache
+H:\13. Osztály\aaf\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.AssemblyInfo.cs
+H:\13. Osztály\aaf\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.csproj.CoreCompileInputs.cache
+H:\13. Osztály\aaf\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.sourcelink.json
+H:\13. Osztály\aaf\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.dll
+H:\13. Osztály\aaf\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\refint\NyulSzimulator.dll
+H:\13. Osztály\aaf\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.pdb
+H:\13. Osztály\aaf\2025_09_05 NyulSzimulator\NyulSzimulator\bin\Debug\net8.0\NyulSzimulator.exe
+H:\13. Osztály\aaf\2025_09_05 NyulSzimulator\NyulSzimulator\bin\Debug\net8.0\NyulSzimulator.deps.json
+H:\13. Osztály\aaf\2025_09_05 NyulSzimulator\NyulSzimulator\bin\Debug\net8.0\NyulSzimulator.runtimeconfig.json
+H:\13. Osztály\aaf\2025_09_05 NyulSzimulator\NyulSzimulator\bin\Debug\net8.0\NyulSzimulator.dll
+H:\13. Osztály\aaf\2025_09_05 NyulSzimulator\NyulSzimulator\bin\Debug\net8.0\NyulSzimulator.pdb
+H:\13. Osztály\aaf\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.genruntimeconfig.cache
+H:\13. Osztály\aaf\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\ref\NyulSzimulator.dll
+C:\Suli\13\Asztali\2025_09_05 NyulSzimulator\NyulSzimulator\bin\Debug\net8.0\NyulSzimulator.exe
+C:\Suli\13\Asztali\2025_09_05 NyulSzimulator\NyulSzimulator\bin\Debug\net8.0\NyulSzimulator.deps.json
+C:\Suli\13\Asztali\2025_09_05 NyulSzimulator\NyulSzimulator\bin\Debug\net8.0\NyulSzimulator.runtimeconfig.json
+C:\Suli\13\Asztali\2025_09_05 NyulSzimulator\NyulSzimulator\bin\Debug\net8.0\NyulSzimulator.dll
+C:\Suli\13\Asztali\2025_09_05 NyulSzimulator\NyulSzimulator\bin\Debug\net8.0\NyulSzimulator.pdb
+C:\Suli\13\Asztali\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Suli\13\Asztali\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.AssemblyInfoInputs.cache
+C:\Suli\13\Asztali\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.AssemblyInfo.cs
+C:\Suli\13\Asztali\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.csproj.CoreCompileInputs.cache
+C:\Suli\13\Asztali\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.dll
+C:\Suli\13\Asztali\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\refint\NyulSzimulator.dll
+C:\Suli\13\Asztali\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.pdb
+C:\Suli\13\Asztali\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\NyulSzimulator.genruntimeconfig.cache
+C:\Suli\13\Asztali\2025_09_05 NyulSzimulator\NyulSzimulator\obj\Debug\net8.0\ref\NyulSzimulator.dll

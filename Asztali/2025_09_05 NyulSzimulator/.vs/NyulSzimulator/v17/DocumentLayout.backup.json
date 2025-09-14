@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30487F1A-6826-49FB-93C7-E66FA4B55FA9}|NyulSzimulator\\NyulSzimulator.csproj|c:\\suli\\13\\asztali\\2025_09_05 nyulszimulator\\nyulszimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30487F1A-6826-49FB-93C7-E66FA4B55FA9}|NyulSzimulator\\NyulSzimulator.csproj|solutionrelative:nyulszimulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30487F1A-6826-49FB-93C7-E66FA4B55FA9}|NyulSzimulator\\NyulSzimulator.csproj|c:\\suli\\13\\asztali\\2025_09_05 nyulszimulator\\nyulszimulator\\ieloleny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30487F1A-6826-49FB-93C7-E66FA4B55FA9}|NyulSzimulator\\NyulSzimulator.csproj|solutionrelative:nyulszimulator\\ieloleny.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30487F1A-6826-49FB-93C7-E66FA4B55FA9}|NyulSzimulator\\NyulSzimulator.csproj|c:\\suli\\13\\asztali\\2025_09_05 nyulszimulator\\nyulszimulator\\nyul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30487F1A-6826-49FB-93C7-E66FA4B55FA9}|NyulSzimulator\\NyulSzimulator.csproj|solutionrelative:nyulszimulator\\nyul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30487F1A-6826-49FB-93C7-E66FA4B55FA9}|NyulSzimulator\\NyulSzimulator.csproj|c:\\suli\\13\\asztali\\2025_09_05 nyulszimulator\\nyulszimulator\\allat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30487F1A-6826-49FB-93C7-E66FA4B55FA9}|NyulSzimulator\\NyulSzimulator.csproj|solutionrelative:nyulszimulator\\allat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30487F1A-6826-49FB-93C7-E66FA4B55FA9}|NyulSzimulator\\NyulSzimulator.csproj|c:\\suli\\13\\asztali\\2025_09_05 nyulszimulator\\nyulszimulator\\fu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30487F1A-6826-49FB-93C7-E66FA4B55FA9}|NyulSzimulator\\NyulSzimulator.csproj|solutionrelative:nyulszimulator\\fu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30487F1A-6826-49FB-93C7-E66FA4B55FA9}|NyulSzimulator\\NyulSzimulator.csproj|c:\\suli\\13\\asztali\\2025_09_05 nyulszimulator\\nyulszimulator\\mezo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30487F1A-6826-49FB-93C7-E66FA4B55FA9}|NyulSzimulator\\NyulSzimulator.csproj|solutionrelative:nyulszimulator\\mezo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30487F1A-6826-49FB-93C7-E66FA4B55FA9}|NyulSzimulator\\NyulSzimulator.csproj|c:\\suli\\13\\asztali\\2025_09_05 nyulszimulator\\nyulszimulator\\nem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30487F1A-6826-49FB-93C7-E66FA4B55FA9}|NyulSzimulator\\NyulSzimulator.csproj|solutionrelative:nyulszimulator\\nem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30487F1A-6826-49FB-93C7-E66FA4B55FA9}|NyulSzimulator\\NyulSzimulator.csproj|c:\\suli\\13\\asztali\\2025_09_05 nyulszimulator\\nyulszimulator\\roka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30487F1A-6826-49FB-93C7-E66FA4B55FA9}|NyulSzimulator\\NyulSzimulator.csproj|solutionrelative:nyulszimulator\\roka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fu.cs",
+              "DocumentMoniker": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\Fu.cs",
+              "RelativeDocumentMoniker": "NyulSzimulator\\Fu.cs",
+              "ToolTip": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\Fu.cs",
+              "RelativeToolTip": "NyulSzimulator\\Fu.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T19:46:43.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Roka.cs",
+              "DocumentMoniker": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\Roka.cs",
+              "RelativeDocumentMoniker": "NyulSzimulator\\Roka.cs",
+              "ToolTip": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\Roka.cs",
+              "RelativeToolTip": "NyulSzimulator\\Roka.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswDkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T11:09:37.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Allat.cs",
+              "DocumentMoniker": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\Allat.cs",
+              "RelativeDocumentMoniker": "NyulSzimulator\\Allat.cs",
+              "ToolTip": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\Allat.cs",
+              "RelativeToolTip": "NyulSzimulator\\Allat.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T10:53:18.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nem.cs",
+              "DocumentMoniker": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\Nem.cs",
+              "RelativeDocumentMoniker": "NyulSzimulator\\Nem.cs",
+              "ToolTip": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\Nem.cs",
+              "RelativeToolTip": "NyulSzimulator\\Nem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:59:12.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mezo.cs",
+              "DocumentMoniker": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\Mezo.cs",
+              "RelativeDocumentMoniker": "NyulSzimulator\\Mezo.cs",
+              "ToolTip": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\Mezo.cs",
+              "RelativeToolTip": "NyulSzimulator\\Mezo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T07:27:39.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nyul.cs",
+              "DocumentMoniker": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\Nyul.cs",
+              "RelativeDocumentMoniker": "NyulSzimulator\\Nyul.cs",
+              "ToolTip": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\Nyul.cs",
+              "RelativeToolTip": "NyulSzimulator\\Nyul.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T11:12:53.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEloleny.cs",
+              "DocumentMoniker": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\IEloleny.cs",
+              "RelativeDocumentMoniker": "NyulSzimulator\\IEloleny.cs",
+              "ToolTip": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\IEloleny.cs",
+              "RelativeToolTip": "NyulSzimulator\\IEloleny.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T10:47:52.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\Program.cs",
+              "RelativeDocumentMoniker": "NyulSzimulator\\Program.cs",
+              "ToolTip": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\Program.cs",
+              "RelativeToolTip": "NyulSzimulator\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAwwBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T10:46:07.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
