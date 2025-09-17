@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NyulSzimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8560423bc744f972a5f763ad02783fbefa421a2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("NyulSzimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NyulSzimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2025.09.05._Nyuszimulátor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7bd485a45f238c0e79df7c60f37d5856083cab6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8560423bc744f972a5f763ad02783fbefa421a2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("2025.09.05._Nyuszimulátor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2025.09.05._Nyuszimulátor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

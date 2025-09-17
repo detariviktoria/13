@@ -6,28 +6,16 @@ using System.Threading.Tasks;
 
 namespace NyulSzimulator
 {
-    internal class Fu : IEloleny
+    internal class Fu : Noveny
     {
-        public bool ElE { get; private set; } = true;
-        private int tapErtek = 2; // ennyi energiát ad a nyúlnak, ha megeszi
-        private int kiszaradasEsely = 10; // százalék
-        private int terjeszkedesEsely = 20; // százalék
-        Random r = new Random();
-
-        public Fu() { }
-
-        public bool SzaporodikE()
+        public override void FejtsdKi()
         {
-            // Terjeszkedik
-            return r.Next(100) < terjeszkedesEsely;
+            throw new NotImplementedException();
         }
 
-        public void Kiszarad()
-        {
-            if (r.Next(100) < kiszaradasEsely)
-                ElE = false;
+        public void Tragyazas(Nyul nyul)
+        { 
+            
         }
-
-        public int TapErtek => tapErtek;
     }
 }

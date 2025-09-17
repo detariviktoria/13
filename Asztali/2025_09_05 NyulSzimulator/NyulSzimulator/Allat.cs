@@ -9,38 +9,38 @@ namespace NyulSzimulator
     internal abstract class Allat : IEloleny
     {
         public int Eletkor { get; private set; }
-        public Nem Nem { get; } // 0 - hím, 1 - nőstény
-        protected int energia { get;  set; }
-
-
-
+        public Nem Nem { get; } 
+        public int Energia { get; private set; }
         public abstract bool ElE { get; }
-        //public bool ElE { get { return true; } }
+        public abstract List<(int, int, IEloleny)> UjEloleny { get; protected set; }
 
 
         //Konstruktor
-        public Allat(int energia,Nem nem)
+        public Allat(int energia, Nem nem)
         {
             Eletkor = 0;
             Nem = nem;
-            energia = this.energia;
+            Energia = energia;
         }
 
         public abstract bool SzaporodikE();
-        public abstract void Szimulacioslepes(IEloleny[,] racs, int sor, int oszlop);
+        public abstract void SzimulaciosLepes(IEloleny[,] racs, int sor, int oszlop);
+        public abstract void Szaporodik(List<IEloleny> nyulSzomszedok, IEloleny[,] racs, int sor, int oszlop);
+
         public void NovelEnergia()
         {
-            energia++;
+            Energia++;
         }
         public void CsokkentEnergia()
         {
-            energia--;
+            Energia--;
         }
-
-        public void Noveleletkor()
+        public void NovelEletkor()
         {
             Eletkor++;
         }
+
+
 
     }
 }

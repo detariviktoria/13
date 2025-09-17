@@ -6,28 +6,29 @@ using System.Threading.Tasks;
 
 namespace _2025._09._05._Nyuszimulátor
 {
-
+    // A Nyul osztály az Állatból származik, konkrét megvalósítás nyúl számára.
+    
     internal class Nyul : Allat
     {
-        const int maximumEletkor = 10;
-        const int szaporodasiEsely = 30;
-        Random r = new Random();
+        // Statikus, minden nyúlra érvényes maximális élettartam (pl. 7 év)
+        public override int MaxEletkor { get; } = 7;
 
+        // Szaporodási esély százalékban (0-100 között)
+        public double SzaporodasiEsely { get; }
 
-        //Konstruktor
-        public Nyul(Nem nem):base (nem) {
-            
-
+        // Konstruktor: neme és szaporodási esélye beállítható
+        public Nyul(Nem nem, double szaporodasiEsely) : base(nem)
+        {
+            SzaporodasiEsely = szaporodasiEsely;
         }
 
+        // Megvalósítja a szaporodik-e metódust
         public override bool SzaporodikE()
         {
-            return r.Next(100) < szaporodasiEsely;
+            // Véletlenszerűen dönt: szaporodik-e most
+            Random r = new Random();
+            return r.NextDouble() < (SzaporodasiEsely / 100.0);
         }
 
-        public override bool Ele(int kor)
-        {
-            return maximumEletkor > kor;
-        }
     }
-}
+    } 

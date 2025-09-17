@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Suli\\13b\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\NyulSzimulator.csproj": {}
+    "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\NyulSzimulator.csproj": {}
   },
   "projects": {
-    "C:\\Suli\\13b\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\NyulSzimulator.csproj": {
+    "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\NyulSzimulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Suli\\13b\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\NyulSzimulator.csproj",
+        "projectUniqueName": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\NyulSzimulator.csproj",
         "projectName": "NyulSzimulator",
-        "projectPath": "C:\\Suli\\13b\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\NyulSzimulator.csproj",
+        "projectPath": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\NyulSzimulator.csproj",
         "packagesPath": "C:\\Users\\detar\\.nuget\\packages\\",
-        "outputPath": "C:\\Suli\\13b\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\obj\\",
+        "outputPath": "C:\\Suli\\13\\Asztali\\2025_09_05 NyulSzimulator\\NyulSzimulator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
