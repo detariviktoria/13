@@ -1,0 +1,22 @@
+const products = [
+    { id: 1, name: "Laptop", price: 120000, quantity: 10 },
+    { id: 2, name: "Okosóra", price: 35000, quantity: 25 },
+    { id: 3, name: "Mobiltelefon", price: 75000, quantity: 50 },
+    { id: 4, name: "Fejhallgató", price: 15000, quantity: 40 },
+    { id: 5, name: "TV", price: 150000, quantity: 15 },
+    { id: 6, name: "Kávéfőző", price: 30000, quantity: 20 },
+    { id: 7, name: "Mikrohullámú sütő", price: 45000, quantity: 30 },
+    { id: 8, name: "Hűtőszekrény", price: 120000, quantity: 10 },
+    { id: 9, name: "Porszívó", price: 20000, quantity: 35 },
+    { id: 10, name: "Sütő", price: 80000, quantity: 12 },
+    { id: 11, name: "Fényképezőgép", price: 65000, quantity: 18 },
+    { id: 12, name: "Játék konzol", price: 95000, quantity: 22 },
+    { id: 13, name: "Légkondicionáló", price: 110000, quantity: 8 },
+    { id: 14, name: "Tisztítószer", price: 3000, quantity: 100 },
+    { id: 15, name: "Konyhai robotgép", price: 50000, quantity: 25 },
+    { id: 16, name: "Táblagép", price: 45000, quantity: 40 },
+    { id: 17, name: "Kamera", price: 120000, quantity: 10 },
+    { id: 18, name: "Ruházat", price: 12000, quantity: 60 },
+    { id: 19, name: "Bicikli", price: 25000, quantity: 15 },
+    { id: 20, name: "Szőnyeg", price: 18000, quantity: 30 }
+  ];
