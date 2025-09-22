@@ -1,14 +1,11 @@
 const express = require("express");
 
-const app = express.Router();
+const router = express.Router();
 
-const weaponController = require("../controllers/weaponcontrollers");
+const weaponController = require("../controllers/weaponController");
 
-exports.updateWeapon = (req, res, next) =>
-{
-    const weapon = getWeapons.find(item => item.name = weaponName);
-    if(weapon)
-    {
-        
-    }
-}
+router.get("/", weaponController.getWeapons);
+
+router.patch("/", weaponController.updateWeapon);
+
+module.exports = router;

@@ -1,5 +1,5 @@
 {
-  "name": "csgo",
+  "name": "zoo",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -12,8 +12,5 @@
   "description": "",
   "dependencies": {
     "express": "^5.1.0"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.10"
   }
 }

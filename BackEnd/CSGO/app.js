@@ -2,13 +2,14 @@ const express = require("express");
 
 const app = express();
 
+app.use(express.urlencoded({ extended: true }));
 
-app.use(express)
-// fegyverek lekérése
-const weaponsRoutes = require("./api/routes/weaponRoutes");
+// const errorHandler = require("./api/middlewares/errorHandler");
 
+const weaponRoutes = require("./api/routes/weaponRoutes");
 
 app.use("/weapons", weaponRoutes);
-//app.use(errorHandle)
+
+// app.use(errorHandler);
 
 module.exports = app;

@@ -1,0 +1,119 @@
+setup npm init -y 
+npm i express
+----------------------
+ha node,on után . van akkor ét kell írni a main: server.js
+
+app.js és server.js létrehozás
+
+app.js 
+express használat behúzás reuire-val útvonallal
+
+app létrehozás const app = express();
+kívülről is elérjük = module.exports = app;=> igy megvan az appunk
+
+server.js
+kell egy port 
+app.listen(PORT); => elindítjuk a programunkat
+console.log(`http://localhost:${PORT}`); visszadobja az alkalmazás fut a porton, nekünk van csak
+-------------------------
+
+létrehozzuk a mappaszerkezetünket: 
+api mappa ebbe: 
+		routes mappa, 
+		controllers, 
+		middlewares
+-------------------
+routes mappa: animalRoutes.js
+		
+
+csináljuk meg a routert const express = require("express");
+
+const router = express.Router();
+
+const animalController = require("../controllers/animalController");
+
+router.get("/", animalController.getAnimals)
+
+module.exports = router;
+
+
+module.exports = router;
+
+----------------
+controllers: animalController.js
+
+const animals =
+[
+    {
+        ID: 129348,
+        species: "Majom",
+    }
+{
+        ID: 127312948,
+        species: "Elefánt",
+    },
+    {
+        ID: 13748232,
+        species: "Pingvin",
+    },
+]
+
+exports.getAnimals = (req, res, next) =>
+{ 
+	res.status(200).json(animals); válaszolink az animals tömbbel a 200 = OK, json visszaadjunk 
+}
+
+
+-------------
+app.js
+
+
+
+const express = require("express");
+
+const app = express();
+
+const animalRoutes = require("./api/routes/animalRoutes"); // elérése az animalRoutes
+
+app.get("/", (req, res, next) => 
+{
+    res.status(302).redirect(/animal); // egy linket vár 
+})
+
+app.use("/animals", animalRoutes);
+
+module.exports = app; 
+
+-------------
+npm start a terminálba amivel el tudjuk inditani a programot
+
+------------------
+
+F12-vel meg tudjuk nyitni a böngészőbe a megnyitott oldalt, tudjuk figyelni hogy mi történt 
+
+-----------
+url paraméterek
+app.use(express.urlencoded({ extended: true })); !!!!!!!!!!! ezt be kell magolni ez kell hogy elküldjuk a HTML URL cuccokat
+
+------------------------------
+
+
+lekérdezések 
+
+url paraméterek 
+
+
+csinálunk egy tömböt szűrjük a szűrött tömbünket =>
+ const tempAnimals = JSON.parse(JSON.stringify(animals));
+
+JSON.stringify(animals) JSON sztingé alakítja a tömböt 
+JSON.parse js objektummá alakítja
+
+if(id)  // ha létezik ez a paraméter
+{
+        tempAnimals = tempAnimals.filter(item => item.ID == id); // filter végigmegy a tömbön az itemmel és ha igaz rá akkor kigyűjti egy tömbbe 
+    }
+
+-------------------
+google animals?id=12489928943
+

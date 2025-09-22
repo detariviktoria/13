@@ -1,6 +1,0 @@
-npm init -y
-npm i express
-
-------------
-npm i (elinditas)
-npm test (megnézem mennyi a jegyem)

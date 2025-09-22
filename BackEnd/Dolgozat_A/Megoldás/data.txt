@@ -1,0 +1,47 @@
+const watches = 
+[
+    {
+        price: 9999,
+        materials: ["fa"],
+        owner: "Szabó Dániel",
+        brand: "Rolex",
+        termesz: true,
+        hoscincer: true,
+    },
+    {
+        price: 16451,
+        materials: ["acél"],
+        owner: "Kássa Gergő",
+        brand: "Rolex",
+    },
+    {
+        price: 94709,
+        materials: ["acél"],
+        owner: "Szabó Emánuel",
+        brand: "Patek Philippe",
+    },
+    {
+        price: 21812,
+        materials: ["acél"],
+        owner: "Szabó Emánuel",
+        brand: "Patek Philippe",
+    },
+    {
+        price: 1636,
+        materials: ["arany", "acél"],
+        owner: "Szabó Dániel",
+        brand: "TAG Heuer",
+    },
+    {
+        price: 1636,
+        materials: ["arany", "acél"],
+        owner: "Kássa Gergő",
+        brand: "TAG Heuer",
+    },
+    {
+        price: 37687,
+        materials: ["platinum"],
+        owner: "Farkas Norbert Levente",
+        brand: "Cartier",
+    },
+]
