@@ -11,6 +11,7 @@ namespace NyulSzimulator
         public int Eletkor { get; private set; }
         public Nem Nem { get; } 
         public int Energia { get; private set; }
+
         public abstract bool ElE { get; }
         public abstract List<(int, int, IEloleny)> UjEloleny { get; protected set; }
 
@@ -23,9 +24,8 @@ namespace NyulSzimulator
             Energia = energia;
         }
 
-        public abstract bool SzaporodikE();
         public abstract void SzimulaciosLepes(IEloleny[,] racs, int sor, int oszlop);
-        public abstract void Szaporodik(List<IEloleny> nyulSzomszedok, IEloleny[,] racs, int sor, int oszlop);
+        
 
         public void NovelEnergia()
         {
@@ -40,7 +40,27 @@ namespace NyulSzimulator
             Eletkor++;
         }
 
+        public bool VanEUresMezoKorulotte(IEloleny[,] racs, int sor, int oszlop)
+        {
+            for (int i = -1; i < 2; i++)
+            {
+                for (int j = -1; j < 2; j++)
+                {
+                    if (i == 0 && j == 0) continue;
+                    else if (sor + i > -1 && oszlop + j > -1 && sor + i < racs.GetLength(0) && oszlop + j < racs.GetLength(1))
+                    {
+                        if (racs[sor + i, oszlop + j] == null)
+                        {
+                            return true;
+                        }
+                    }
+                }
+            }
+            return false;
+        }
 
+
+        public bool ElE => Eletkor <= MaximumEletkor && Energia > 0;
 
     }
 }

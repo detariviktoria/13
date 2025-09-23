@@ -8,29 +8,47 @@ namespace NyulSzimulator
 {
     internal abstract class Noveny : IEloleny
     {
-        public bool ElE => throw new NotImplementedException();
 
-        public List<(int, int, IEloleny)> UjEloleny => throw new NotImplementedException();
+        public int Sor { get; }
+        public int Oszlop { get; }
 
-        public void Szaporodik(List<IEloleny> nyulSzomszedok, IEloleny[,] racs, int sor, int oszlop)
+        public int Energia { get; private set; }
+        public List<IEloleny> Szomszedok { get; };
+
+        public Noveny(int sor, int oszlop, List<IEloleny> szomszedok)
         {
-            throw new NotImplementedException();
+            Sor = sor;
+            Oszlop = oszlop;
+            Energia = 5; // induló érték
+            Szomszedok = szomszedok;
         }
 
-        public bool SzaporodikE()
+
+        public abstract void SzimulaciosLepes(IEloleny[,] racs, int sor, int oszlop);
+        public bool ElE
         {
-            throw new NotImplementedException();
+            
+                if (Energia <= 0)
+                    return false;
+
+                // Ha minden szomszéd nyúl → elpusztul
+                int nyulakSzama = Szomszedok.Count(e => e is Nyul);
+                if ( nyulakSzama == Szomszedok.Count)
+                    return false;
+            
+          return true;
         }
 
-        public void SzimulaciosLepes(IEloleny[,] racs, int sor, int oszlop)
+        public void NovelEnergia()
         {
-            throw new NotImplementedException();
+            Energia++;
+        }
+        public void CsokkentEnergia()
+        {
+            Energia--;
         }
 
-        public void MidenSzarmaztatottOsztalynak()
-        {
-            Console.WriteLine("siker");
-        }
-        public abstract void FejtsdKi();
+        
+        
     }
 }

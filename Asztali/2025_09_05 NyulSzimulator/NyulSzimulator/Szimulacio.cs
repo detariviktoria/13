@@ -10,28 +10,24 @@ namespace NyulSzimulator
     {
         static Mezo mezo = new Mezo(10,10,20);
 
-        public static void Run()
-        {
-            mezo.RacsFeltoltes();
-            //((Nyul)mezo.racs[0, 0]).Nem = Nem.Him;
-        }
 
-        public static void NyulSzomszedMegjelenites()
+        public static int ElolenySzama(Type eloleny)
         {
+            int db = 0;
             for (int i = 0; i < mezo.racs.GetLength(0); i++)
             {
                 for (int j = 0; j < mezo.racs.GetLength(1); j++)
                 {
-                    IEloleny cell = mezo.racs[i, j];
-                    //if(cell != null && cell.GetType() == typeof(Nyul))
-                    if (cell is Nyul)
-                        Console.Write("" + ((Nyul)cell).NyulSzomszedok(mezo.racs, i, j).Count);
-                    else
-                        Console.Write("_");
+                    if (mezo.racs[i, j] != null && mezo.racs[i,j].GetType() == eloleny)
+                        db++;
                 }
-                Console.WriteLine();
             }
-            Console.WriteLine();
+            return db;
+        }
+
+        public static void Leptetes()
+        {
+            mezo.Leptetes();
         }
 
         public static void NyulMegjelenites()
@@ -53,23 +49,30 @@ namespace NyulSzimulator
             Console.WriteLine();
         }
 
-        public static void Leptetes()
+        public static void NyulSzomszedMegjelenites()
         {
-            mezo.Leptetes();
-        }
-
-        public static int ElolenySzama(Type eloleny)
-        {
-            int db = 0;
             for (int i = 0; i < mezo.racs.GetLength(0); i++)
             {
                 for (int j = 0; j < mezo.racs.GetLength(1); j++)
                 {
-                    if (mezo.racs[i, j] != null && mezo.racs[i,j].GetType() == eloleny)
-                        db++;
+                    IEloleny cell = mezo.racs[i, j];
+                    //if(cell != null && cell.GetType() == typeof(Nyul))
+                    if (cell is Nyul)
+                        Console.Write("" + ((Nyul)cell).NyulSzomszedok(mezo.racs, i, j).Count);
+                    else
+                        Console.Write("_");
                 }
+                Console.WriteLine();
             }
-            return db;
+            Console.WriteLine();
+        }
+
+
+
+        public static void Run()
+        {
+            mezo.RacsFeltoltes();
+            //((Nyul)mezo.racs[0, 0]).Nem = Nem.Him;
         }
     }
 }
