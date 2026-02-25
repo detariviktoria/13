@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\13\\Asztali\\2025_10_06 solitaire ball\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFAF673-3B1B-4173-97C7-1C4A705D5540}|2025_10_06_Solitaire\\2025_10_06_Solitaire.csproj|h:\\13\\asztali\\2025_10_06 solitaire ball\\2025_10_06_solitaire\\allapotter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFAF673-3B1B-4173-97C7-1C4A705D5540}|2025_10_06_Solitaire\\2025_10_06_Solitaire.csproj|solutionrelative:2025_10_06_solitaire\\allapotter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFAF673-3B1B-4173-97C7-1C4A705D5540}|2025_10_06_Solitaire\\2025_10_06_Solitaire.csproj|h:\\13\\asztali\\2025_10_06 solitaire ball\\2025_10_06_solitaire\\allapot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFAF673-3B1B-4173-97C7-1C4A705D5540}|2025_10_06_Solitaire\\2025_10_06_Solitaire.csproj|solutionrelative:2025_10_06_solitaire\\allapot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFAF673-3B1B-4173-97C7-1C4A705D5540}|2025_10_06_Solitaire\\2025_10_06_Solitaire.csproj|h:\\13\\asztali\\2025_10_06 solitaire ball\\2025_10_06_solitaire\\allapottermelysegi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFAF673-3B1B-4173-97C7-1C4A705D5540}|2025_10_06_Solitaire\\2025_10_06_Solitaire.csproj|solutionrelative:2025_10_06_solitaire\\allapottermelysegi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllapotTerMelysegi.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\2025_10_06 solitaire ball\\2025_10_06_Solitaire\\AllapotTerMelysegi.cs",
+              "RelativeDocumentMoniker": "2025_10_06_Solitaire\\AllapotTerMelysegi.cs",
+              "ToolTip": "H:\\13\\Asztali\\2025_10_06 solitaire ball\\2025_10_06_Solitaire\\AllapotTerMelysegi.cs",
+              "RelativeToolTip": "2025_10_06_Solitaire\\AllapotTerMelysegi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T12:20:20.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllapotTer.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\2025_10_06 solitaire ball\\2025_10_06_Solitaire\\AllapotTer.cs",
+              "RelativeDocumentMoniker": "2025_10_06_Solitaire\\AllapotTer.cs",
+              "ToolTip": "H:\\13\\Asztali\\2025_10_06 solitaire ball\\2025_10_06_Solitaire\\AllapotTer.cs",
+              "RelativeToolTip": "2025_10_06_Solitaire\\AllapotTer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T12:19:53.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Allapot.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\2025_10_06 solitaire ball\\2025_10_06_Solitaire\\Allapot.cs",
+              "RelativeDocumentMoniker": "2025_10_06_Solitaire\\Allapot.cs",
+              "ToolTip": "H:\\13\\Asztali\\2025_10_06 solitaire ball\\2025_10_06_Solitaire\\Allapot.cs",
+              "RelativeToolTip": "2025_10_06_Solitaire\\Allapot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T12:03:14.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0BFF1A-0829-440F-9924-D343156B30C4}|BankRendszerTest\\BankRendszerTest.csproj|H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\bankrendszertest\\bankugyfeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0BFF1A-0829-440F-9924-D343156B30C4}|BankRendszerTest\\BankRendszerTest.csproj|solutionrelative:bankrendszertest\\bankugyfeltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26875319-C2CF-4E81-BBDA-65C8B6945B12}|BankosFeladatBeadando\\BankosFeladatBeadando.csproj|h:\\13\\asztali\\beadandok\\bankosfeladatbeadando_sebella_viki\\bankosfeladatbeadando\\bankrendszer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26875319-C2CF-4E81-BBDA-65C8B6945B12}|BankosFeladatBeadando\\BankosFeladatBeadando.csproj|solutionrelative:bankosfeladatbeadando\\bankrendszer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26875319-C2CF-4E81-BBDA-65C8B6945B12}|BankosFeladatBeadando\\BankosFeladatBeadando.csproj|H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\bankosfeladatbeadando\\bankrendszerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26875319-C2CF-4E81-BBDA-65C8B6945B12}|BankosFeladatBeadando\\BankosFeladatBeadando.csproj|solutionrelative:bankosfeladatbeadando\\bankrendszerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26875319-C2CF-4E81-BBDA-65C8B6945B12}|BankosFeladatBeadando\\BankosFeladatBeadando.csproj|H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\bankosfeladatbeadando\\bankrendszerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26875319-C2CF-4E81-BBDA-65C8B6945B12}|BankosFeladatBeadando\\BankosFeladatBeadando.csproj|solutionrelative:bankosfeladatbeadando\\bankrendszerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26875319-C2CF-4E81-BBDA-65C8B6945B12}|BankosFeladatBeadando\\BankosFeladatBeadando.csproj|H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\bankosfeladatbeadando\\ibankrendszer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26875319-C2CF-4E81-BBDA-65C8B6945B12}|BankosFeladatBeadando\\BankosFeladatBeadando.csproj|solutionrelative:bankosfeladatbeadando\\ibankrendszer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26875319-C2CF-4E81-BBDA-65C8B6945B12}|BankosFeladatBeadando\\BankosFeladatBeadando.csproj|H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\bankosfeladatbeadando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26875319-C2CF-4E81-BBDA-65C8B6945B12}|BankosFeladatBeadando\\BankosFeladatBeadando.csproj|solutionrelative:bankosfeladatbeadando\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26875319-C2CF-4E81-BBDA-65C8B6945B12}|BankosFeladatBeadando\\BankosFeladatBeadando.csproj|H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\bankosfeladatbeadando\\szamla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26875319-C2CF-4E81-BBDA-65C8B6945B12}|BankosFeladatBeadando\\BankosFeladatBeadando.csproj|solutionrelative:bankosfeladatbeadando\\szamla.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26875319-C2CF-4E81-BBDA-65C8B6945B12}|BankosFeladatBeadando\\BankosFeladatBeadando.csproj|H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\bankosfeladatbeadando\\ugyfel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26875319-C2CF-4E81-BBDA-65C8B6945B12}|BankosFeladatBeadando\\BankosFeladatBeadando.csproj|solutionrelative:bankosfeladatbeadando\\ugyfel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26875319-C2CF-4E81-BBDA-65C8B6945B12}|BankosFeladatBeadando\\BankosFeladatBeadando.csproj|H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\bankosfeladatbeadando\\tranzakcio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26875319-C2CF-4E81-BBDA-65C8B6945B12}|BankosFeladatBeadando\\BankosFeladatBeadando.csproj|solutionrelative:bankosfeladatbeadando\\tranzakcio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0BFF1A-0829-440F-9924-D343156B30C4}|BankRendszerTest\\BankRendszerTest.csproj|H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\bankrendszertest\\bankrendszertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0BFF1A-0829-440F-9924-D343156B30C4}|BankRendszerTest\\BankRendszerTest.csproj|solutionrelative:bankrendszertest\\bankrendszertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0BFF1A-0829-440F-9924-D343156B30C4}|BankRendszerTest\\BankRendszerTest.csproj|H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\bankrendszertest\\bankszamlatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0BFF1A-0829-440F-9924-D343156B30C4}|BankRendszerTest\\BankRendszerTest.csproj|solutionrelative:bankrendszertest\\bankszamlatest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0BFF1A-0829-440F-9924-D343156B30C4}|BankRendszerTest\\BankRendszerTest.csproj|H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\bankrendszertest\\banktranzakciotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0BFF1A-0829-440F-9924-D343156B30C4}|BankRendszerTest\\BankRendszerTest.csproj|solutionrelative:bankrendszertest\\banktranzakciotest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26875319-C2CF-4E81-BBDA-65C8B6945B12}|BankosFeladatBeadando\\BankosFeladatBeadando.csproj|H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\bankosfeladatbeadando\\bankrendszerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26875319-C2CF-4E81-BBDA-65C8B6945B12}|BankosFeladatBeadando\\BankosFeladatBeadando.csproj|solutionrelative:bankosfeladatbeadando\\bankrendszerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Szamla.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankosFeladatBeadando\\Szamla.cs",
+              "RelativeDocumentMoniker": "BankosFeladatBeadando\\Szamla.cs",
+              "ToolTip": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankosFeladatBeadando\\Szamla.cs",
+              "RelativeToolTip": "BankosFeladatBeadando\\Szamla.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:50:48.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankRendszerForm.Designer.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankosFeladatBeadando\\BankRendszerForm.Designer.cs",
+              "RelativeDocumentMoniker": "BankosFeladatBeadando\\BankRendszerForm.Designer.cs",
+              "ToolTip": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankosFeladatBeadando\\BankRendszerForm.Designer.cs",
+              "RelativeToolTip": "BankosFeladatBeadando\\BankRendszerForm.Designer.cs",
+              "ViewState": "AgIAAFYBAAAAAAAAAAAAAIIBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T20:23:02.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BankRendszerForm.cs [Design]",
+              "DocumentMoniker": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankosFeladatBeadando\\BankRendszerForm.cs",
+              "RelativeDocumentMoniker": "BankosFeladatBeadando\\BankRendszerForm.cs",
+              "ToolTip": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankosFeladatBeadando\\BankRendszerForm.cs [Design]",
+              "RelativeToolTip": "BankosFeladatBeadando\\BankRendszerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T20:22:42.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankRendszer.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankosFeladatBeadando\\BankRendszer.cs",
+              "RelativeDocumentMoniker": "BankosFeladatBeadando\\BankRendszer.cs",
+              "ToolTip": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankosFeladatBeadando\\BankRendszer.cs",
+              "RelativeToolTip": "BankosFeladatBeadando\\BankRendszer.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAYwNsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:50:03.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankUgyfelTest.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankRendszerTest\\BankUgyfelTest.cs",
+              "RelativeDocumentMoniker": "BankRendszerTest\\BankUgyfelTest.cs",
+              "ToolTip": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankRendszerTest\\BankUgyfelTest.cs",
+              "RelativeToolTip": "BankRendszerTest\\BankUgyfelTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:28:53.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BankSzamlaTest.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankRendszerTest\\BankSzamlaTest.cs",
+              "RelativeDocumentMoniker": "BankRendszerTest\\BankSzamlaTest.cs",
+              "ToolTip": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankRendszerTest\\BankSzamlaTest.cs",
+              "RelativeToolTip": "BankRendszerTest\\BankSzamlaTest.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAEUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:44:51.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tranzakcio.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankosFeladatBeadando\\Tranzakcio.cs",
+              "RelativeDocumentMoniker": "BankosFeladatBeadando\\Tranzakcio.cs",
+              "ToolTip": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankosFeladatBeadando\\Tranzakcio.cs",
+              "RelativeToolTip": "BankosFeladatBeadando\\Tranzakcio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:50:43.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankRendszerForm.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankosFeladatBeadando\\BankRendszerForm.cs",
+              "RelativeDocumentMoniker": "BankosFeladatBeadando\\BankRendszerForm.cs",
+              "ToolTip": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankosFeladatBeadando\\BankRendszerForm.cs",
+              "RelativeToolTip": "BankosFeladatBeadando\\BankRendszerForm.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAAAHcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:55:17.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankosFeladatBeadando\\Program.cs",
+              "RelativeDocumentMoniker": "BankosFeladatBeadando\\Program.cs",
+              "ToolTip": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankosFeladatBeadando\\Program.cs",
+              "RelativeToolTip": "BankosFeladatBeadando\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowA8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:50:51.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IBankRendszer.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankosFeladatBeadando\\IBankRendszer.cs",
+              "RelativeDocumentMoniker": "BankosFeladatBeadando\\IBankRendszer.cs",
+              "ToolTip": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankosFeladatBeadando\\IBankRendszer.cs",
+              "RelativeToolTip": "BankosFeladatBeadando\\IBankRendszer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T16:28:46.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BankTranzakcioTest.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankRendszerTest\\BankTranzakcioTest.cs",
+              "RelativeDocumentMoniker": "BankRendszerTest\\BankTranzakcioTest.cs",
+              "ToolTip": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankRendszerTest\\BankTranzakcioTest.cs",
+              "RelativeToolTip": "BankRendszerTest\\BankTranzakcioTest.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:44:10.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ugyfel.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankosFeladatBeadando\\Ugyfel.cs",
+              "RelativeDocumentMoniker": "BankosFeladatBeadando\\Ugyfel.cs",
+              "ToolTip": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankosFeladatBeadando\\Ugyfel.cs",
+              "RelativeToolTip": "BankosFeladatBeadando\\Ugyfel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T17:50:28.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BankRendszerTest.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankRendszerTest\\BankRendszerTest.cs",
+              "RelativeDocumentMoniker": "BankRendszerTest\\BankRendszerTest.cs",
+              "ToolTip": "H:\\13\\Asztali\\Beadandok\\BankosFeladatBeadando_Sebella_Viki\\BankRendszerTest\\BankRendszerTest.cs",
+              "RelativeToolTip": "BankRendszerTest\\BankRendszerTest.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T19:37:45.094Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

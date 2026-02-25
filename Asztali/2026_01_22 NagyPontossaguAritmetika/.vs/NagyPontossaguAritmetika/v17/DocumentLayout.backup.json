@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2025-2026\\13.bc AAF mobil\\NagyPontossaguAritmetika\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F397194-B206-481B-9F3B-6478DEAAA52D}|NagyPontossaguAritmetika\\NagyPontossaguAritmetika.csproj|h:\\2025-2026\\13.bc aaf mobil\\nagypontossaguaritmetika\\nagypontossaguaritmetika\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8F397194-B206-481B-9F3B-6478DEAAA52D}|NagyPontossaguAritmetika\\NagyPontossaguAritmetika.csproj|solutionrelative:nagypontossaguaritmetika\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F397194-B206-481B-9F3B-6478DEAAA52D}|NagyPontossaguAritmetika\\NagyPontossaguAritmetika.csproj|h:\\2025-2026\\13.bc aaf mobil\\nagypontossaguaritmetika\\nagypontossaguaritmetika\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F397194-B206-481B-9F3B-6478DEAAA52D}|NagyPontossaguAritmetika\\NagyPontossaguAritmetika.csproj|solutionrelative:nagypontossaguaritmetika\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\2025-2026\\13.bc AAF mobil\\NagyPontossaguAritmetika\\NagyPontossaguAritmetika\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "NagyPontossaguAritmetika\\MainWindow.xaml",
+              "ToolTip": "H:\\2025-2026\\13.bc AAF mobil\\NagyPontossaguAritmetika\\NagyPontossaguAritmetika\\MainWindow.xaml",
+              "RelativeToolTip": "NagyPontossaguAritmetika\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-22T10:00:30.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "H:\\2025-2026\\13.bc AAF mobil\\NagyPontossaguAritmetika\\NagyPontossaguAritmetika\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "NagyPontossaguAritmetika\\MainWindow.xaml.cs",
+              "ToolTip": "H:\\2025-2026\\13.bc AAF mobil\\NagyPontossaguAritmetika\\NagyPontossaguAritmetika\\MainWindow.xaml.cs",
+              "RelativeToolTip": "NagyPontossaguAritmetika\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAYwGIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T10:00:27.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

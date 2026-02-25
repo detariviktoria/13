@@ -1,0 +1,29 @@
+C:\Users\Sebella Mihály\Downloads\BankosFeladatBeadando\BankosFeladatBeadando\bin\Debug\BankosFeladatBeadando.exe.config
+C:\Users\Sebella Mihály\Downloads\BankosFeladatBeadando\BankosFeladatBeadando\bin\Debug\BankosFeladatBeadando.exe
+C:\Users\Sebella Mihály\Downloads\BankosFeladatBeadando\BankosFeladatBeadando\bin\Debug\BankosFeladatBeadando.pdb
+C:\Users\Sebella Mihály\Downloads\BankosFeladatBeadando\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.csproj.AssemblyReference.cache
+C:\Users\Sebella Mihály\Downloads\BankosFeladatBeadando\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.BankRendszerForm.resources
+C:\Users\Sebella Mihály\Downloads\BankosFeladatBeadando\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.csproj.GenerateResource.cache
+C:\Users\Sebella Mihály\Downloads\BankosFeladatBeadando\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.csproj.CoreCompileInputs.cache
+C:\Users\Sebella Mihály\Downloads\BankosFeladatBeadando\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.exe
+C:\Users\Sebella Mihály\Downloads\BankosFeladatBeadando\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.pdb
+C:\Users\Sebella Mihály\Downloads\BankosFeladatBeadando\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.exe.config
+C:\Suli\13\Asztali\Beadandok\BankosFeladatBeadando\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.csproj.AssemblyReference.cache
+C:\Suli\13\Asztali\Beadandok\BankosFeladatBeadando\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.BankRendszerForm.resources
+C:\Suli\13\Asztali\Beadandok\BankosFeladatBeadando\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.csproj.GenerateResource.cache
+C:\Suli\13\Asztali\Beadandok\BankosFeladatBeadando\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.csproj.CoreCompileInputs.cache
+C:\Suli\13\Asztali\Beadandok\BankosFeladatBeadando\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.exe
+C:\Suli\13\Asztali\Beadandok\BankosFeladatBeadando\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.pdb
+C:\Suli\13\Asztali\Beadandok\BankosFeladatBeadando\BankosFeladatBeadando\bin\Debug\BankosFeladatBeadando.exe.config
+C:\Suli\13\Asztali\Beadandok\BankosFeladatBeadando\BankosFeladatBeadando\bin\Debug\BankosFeladatBeadando.exe
+C:\Suli\13\Asztali\Beadandok\BankosFeladatBeadando\BankosFeladatBeadando\bin\Debug\BankosFeladatBeadando.pdb
+H:\13\Asztali\Beadandok\BankosFeladatBeadando_Sebella_Viki\BankosFeladatBeadando\bin\Debug\BankosFeladatBeadando.exe.config
+H:\13\Asztali\Beadandok\BankosFeladatBeadando_Sebella_Viki\BankosFeladatBeadando\bin\Debug\BankosFeladatBeadando.exe
+H:\13\Asztali\Beadandok\BankosFeladatBeadando_Sebella_Viki\BankosFeladatBeadando\bin\Debug\BankosFeladatBeadando.pdb
+H:\13\Asztali\Beadandok\BankosFeladatBeadando_Sebella_Viki\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.csproj.AssemblyReference.cache
+H:\13\Asztali\Beadandok\BankosFeladatBeadando_Sebella_Viki\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.exe.config
+H:\13\Asztali\Beadandok\BankosFeladatBeadando_Sebella_Viki\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.BankRendszerForm.resources
+H:\13\Asztali\Beadandok\BankosFeladatBeadando_Sebella_Viki\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.csproj.GenerateResource.cache
+H:\13\Asztali\Beadandok\BankosFeladatBeadando_Sebella_Viki\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.csproj.CoreCompileInputs.cache
+H:\13\Asztali\Beadandok\BankosFeladatBeadando_Sebella_Viki\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.exe
+H:\13\Asztali\Beadandok\BankosFeladatBeadando_Sebella_Viki\BankosFeladatBeadando\obj\Debug\BankosFeladatBeadando.pdb

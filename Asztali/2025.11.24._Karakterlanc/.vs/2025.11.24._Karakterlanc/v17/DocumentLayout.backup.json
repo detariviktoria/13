@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\13\\Asztali\\2025.11.24._Karakterlanc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF82F14F-9AED-4D9C-A011-982B167BF831}|2025.11.24._Karakterlanc\\2025.11.24._Karakterlanc.csproj|h:\\13\\asztali\\2025.11.24._karakterlanc\\2025.11.24._karakterlanc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF82F14F-9AED-4D9C-A011-982B167BF831}|2025.11.24._Karakterlanc\\2025.11.24._Karakterlanc.csproj|solutionrelative:2025.11.24._karakterlanc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\2025.11.24._Karakterlanc\\2025.11.24._Karakterlanc\\Program.cs",
+              "RelativeDocumentMoniker": "2025.11.24._Karakterlanc\\Program.cs",
+              "ToolTip": "H:\\13\\Asztali\\2025.11.24._Karakterlanc\\2025.11.24._Karakterlanc\\Program.cs",
+              "RelativeToolTip": "2025.11.24._Karakterlanc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T07:33:22.091Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

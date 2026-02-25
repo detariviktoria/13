@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NagyPontossaguAritmetika/1.0.0": {
+        "runtime": {
+          "NagyPontossaguAritmetika.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NagyPontossaguAritmetika/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

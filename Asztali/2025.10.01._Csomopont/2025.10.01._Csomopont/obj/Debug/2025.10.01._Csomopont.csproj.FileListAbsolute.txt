@@ -1,0 +1,8 @@
+H:\13\Asztali\2025.10.01._Csomopont\2025.10.01._Csomopont\obj\Debug\2025.10.01._Csomopont.csproj.AssemblyReference.cache
+H:\13\Asztali\2025.10.01._Csomopont\2025.10.01._Csomopont\obj\Debug\2025.10.01._Csomopont.csproj.CoreCompileInputs.cache
+H:\13\Asztali\2025.10.01._Csomopont\2025.10.01._Csomopont\bin\Debug\2025.10.01._Csomopont.exe.config
+H:\13\Asztali\2025.10.01._Csomopont\2025.10.01._Csomopont\bin\Debug\2025.10.01._Csomopont.exe
+H:\13\Asztali\2025.10.01._Csomopont\2025.10.01._Csomopont\bin\Debug\2025.10.01._Csomopont.pdb
+H:\13\Asztali\2025.10.01._Csomopont\2025.10.01._Csomopont\obj\Debug\2025.10.01._Csomopont.exe
+H:\13\Asztali\2025.10.01._Csomopont\2025.10.01._Csomopont\obj\Debug\2025.10.01._Csomopont.pdb
+H:\13\Asztali\2025.10.01._Csomopont\2025.10.01._Csomopont\obj\Debug\2025.10.01._Csomopont.exe.config

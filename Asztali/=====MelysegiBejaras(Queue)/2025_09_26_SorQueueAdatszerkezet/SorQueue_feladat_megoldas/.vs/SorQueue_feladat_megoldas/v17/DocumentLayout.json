@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Suli\\13\\Asztali\\=====MelysegiBejaras(Queue)\\2025_09_26_SorQueueAdatszerkezet\\SorQueue_feladat_megoldas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C363AFA5-CF55-4ECC-B7C8-5A49148D967A}|SorQueue_feladat_megoldas\\SorQueue_feladat_megoldas.csproj|c:\\suli\\13\\asztali\\=====melysegibejaras(queue)\\2025_09_26_sorqueueadatszerkezet\\sorqueue_feladat_megoldas\\sorqueue_feladat_megoldas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C363AFA5-CF55-4ECC-B7C8-5A49148D967A}|SorQueue_feladat_megoldas\\SorQueue_feladat_megoldas.csproj|solutionrelative:sorqueue_feladat_megoldas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Suli\\13\\Asztali\\=====MelysegiBejaras(Queue)\\2025_09_26_SorQueueAdatszerkezet\\SorQueue_feladat_megoldas\\SorQueue_feladat_megoldas\\Program.cs",
+              "RelativeDocumentMoniker": "SorQueue_feladat_megoldas\\Program.cs",
+              "ToolTip": "C:\\Suli\\13\\Asztali\\=====MelysegiBejaras(Queue)\\2025_09_26_SorQueueAdatszerkezet\\SorQueue_feladat_megoldas\\SorQueue_feladat_megoldas\\Program.cs",
+              "RelativeToolTip": "SorQueue_feladat_megoldas\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T18:48:07.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

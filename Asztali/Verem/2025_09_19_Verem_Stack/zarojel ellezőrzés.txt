@@ -1,0 +1,11 @@
+
+zárójel ellenőrzés
+( () {})
+(( () ) { {} )}
+
+statikus osztály
+metodus Ellenorzes((( () ) { {} )}))
+
+codeabbey.com
+problems 19.
+Matching Brackets

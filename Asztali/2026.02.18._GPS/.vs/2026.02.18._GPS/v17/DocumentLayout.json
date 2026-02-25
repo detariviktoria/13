@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\13\\Asztali\\2026.02.18._GPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6284B3D2-3227-4473-B219-66FE3573E332}|2026.02.18._GPS\\2026.02.18._GPS.csproj|h:\\13\\asztali\\2026.02.18._gps\\2026.02.18._gps\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6284B3D2-3227-4473-B219-66FE3573E332}|2026.02.18._GPS\\2026.02.18._GPS.csproj|solutionrelative:2026.02.18._gps\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284B3D2-3227-4473-B219-66FE3573E332}|2026.02.18._GPS\\2026.02.18._GPS.csproj|h:\\13\\asztali\\2026.02.18._gps\\2026.02.18._gps\\gps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284B3D2-3227-4473-B219-66FE3573E332}|2026.02.18._GPS\\2026.02.18._GPS.csproj|solutionrelative:2026.02.18._gps\\gps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284B3D2-3227-4473-B219-66FE3573E332}|2026.02.18._GPS\\2026.02.18._GPS.csproj|h:\\13\\asztali\\2026.02.18._gps\\2026.02.18._gps\\varosok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284B3D2-3227-4473-B219-66FE3573E332}|2026.02.18._GPS\\2026.02.18._GPS.csproj|solutionrelative:2026.02.18._gps\\varosok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6284B3D2-3227-4473-B219-66FE3573E332}|2026.02.18._GPS\\2026.02.18._GPS.csproj|h:\\13\\asztali\\2026.02.18._gps\\2026.02.18._gps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6284B3D2-3227-4473-B219-66FE3573E332}|2026.02.18._GPS\\2026.02.18._GPS.csproj|solutionrelative:2026.02.18._gps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "H:\\13\\Asztali\\2026.02.18._GPS\\2026.02.18._GPS\\Form1.cs",
+              "RelativeDocumentMoniker": "2026.02.18._GPS\\Form1.cs",
+              "ToolTip": "H:\\13\\Asztali\\2026.02.18._GPS\\2026.02.18._GPS\\Form1.cs [Design]",
+              "RelativeToolTip": "2026.02.18._GPS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T10:15:38.275Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GPS.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\2026.02.18._GPS\\2026.02.18._GPS\\GPS.cs",
+              "RelativeDocumentMoniker": "2026.02.18._GPS\\GPS.cs",
+              "ToolTip": "H:\\13\\Asztali\\2026.02.18._GPS\\2026.02.18._GPS\\GPS.cs",
+              "RelativeToolTip": "2026.02.18._GPS\\GPS.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T10:09:39.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\2026.02.18._GPS\\2026.02.18._GPS\\Program.cs",
+              "RelativeDocumentMoniker": "2026.02.18._GPS\\Program.cs",
+              "ToolTip": "H:\\13\\Asztali\\2026.02.18._GPS\\2026.02.18._GPS\\Program.cs",
+              "RelativeToolTip": "2026.02.18._GPS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T10:09:34.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Varosok.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\2026.02.18._GPS\\2026.02.18._GPS\\Varosok.cs",
+              "RelativeDocumentMoniker": "2026.02.18._GPS\\Varosok.cs",
+              "ToolTip": "H:\\13\\Asztali\\2026.02.18._GPS\\2026.02.18._GPS\\Varosok.cs",
+              "RelativeToolTip": "2026.02.18._GPS\\Varosok.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T10:09:19.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

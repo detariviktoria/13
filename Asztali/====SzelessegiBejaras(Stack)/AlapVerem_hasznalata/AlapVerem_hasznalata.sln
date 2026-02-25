@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlapVerem_hasznalata", "AlapVerem_hasznalata\AlapVerem_hasznalata.csproj", "{1726DF64-FA9A-48DB-A657-69C1D3C3D3BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1726DF64-FA9A-48DB-A657-69C1D3C3D3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1726DF64-FA9A-48DB-A657-69C1D3C3D3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1726DF64-FA9A-48DB-A657-69C1D3C3D3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1726DF64-FA9A-48DB-A657-69C1D3C3D3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77D8D5F5-09AB-485E-A55D-4ED0A79C0E55}
+	EndGlobalSection
+EndGlobal

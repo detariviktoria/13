@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "1nkT9lMd28E=",
+  "success": false,
+  "projectFilePath": "H:\\13\\Asztali\\===Beadando\\BankRendszerBeadando[Sebella-Viki]\\BankSystem.Tests\\BankRendszer.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.\r\n  An error occurred while sending the request.\r\n  Unable to connect to the remote server\r\n  Nem hozható létre kapcsolat, mert a célszámítógép már visszautasította a kapcsolatot 13.107.226.44:443",
+      "projectPath": "H:\\13\\Asztali\\===Beadando\\BankRendszerBeadando[Sebella-Viki]\\BankSystem.Tests\\BankRendszer.Tests.csproj",
+      "filePath": "H:\\13\\Asztali\\===Beadando\\BankRendszerBeadando[Sebella-Viki]\\BankSystem.Tests\\BankRendszer.Tests.csproj",
+      "libraryId": "xunit.runner.visualstudio",
+      "targetGraphs": []
+    }
+  ]
+}

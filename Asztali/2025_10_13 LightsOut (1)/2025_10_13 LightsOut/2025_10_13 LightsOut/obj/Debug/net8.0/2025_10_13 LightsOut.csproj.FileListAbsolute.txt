@@ -1,0 +1,15 @@
+C:\Suli\13\Asztali\2025_10_13 LightsOut (1)\2025_10_13 LightsOut\2025_10_13 LightsOut\bin\Debug\net8.0\2025_10_13 LightsOut.exe
+C:\Suli\13\Asztali\2025_10_13 LightsOut (1)\2025_10_13 LightsOut\2025_10_13 LightsOut\bin\Debug\net8.0\2025_10_13 LightsOut.deps.json
+C:\Suli\13\Asztali\2025_10_13 LightsOut (1)\2025_10_13 LightsOut\2025_10_13 LightsOut\bin\Debug\net8.0\2025_10_13 LightsOut.runtimeconfig.json
+C:\Suli\13\Asztali\2025_10_13 LightsOut (1)\2025_10_13 LightsOut\2025_10_13 LightsOut\bin\Debug\net8.0\2025_10_13 LightsOut.dll
+C:\Suli\13\Asztali\2025_10_13 LightsOut (1)\2025_10_13 LightsOut\2025_10_13 LightsOut\bin\Debug\net8.0\2025_10_13 LightsOut.pdb
+C:\Suli\13\Asztali\2025_10_13 LightsOut (1)\2025_10_13 LightsOut\2025_10_13 LightsOut\obj\Debug\net8.0\2025_10_13 LightsOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Suli\13\Asztali\2025_10_13 LightsOut (1)\2025_10_13 LightsOut\2025_10_13 LightsOut\obj\Debug\net8.0\2025_10_13 LightsOut.AssemblyInfoInputs.cache
+C:\Suli\13\Asztali\2025_10_13 LightsOut (1)\2025_10_13 LightsOut\2025_10_13 LightsOut\obj\Debug\net8.0\2025_10_13 LightsOut.AssemblyInfo.cs
+C:\Suli\13\Asztali\2025_10_13 LightsOut (1)\2025_10_13 LightsOut\2025_10_13 LightsOut\obj\Debug\net8.0\2025_10_13 LightsOut.csproj.CoreCompileInputs.cache
+C:\Suli\13\Asztali\2025_10_13 LightsOut (1)\2025_10_13 LightsOut\2025_10_13 LightsOut\obj\Debug\net8.0\2025_10_13 LightsOut.sourcelink.json
+C:\Suli\13\Asztali\2025_10_13 LightsOut (1)\2025_10_13 LightsOut\2025_10_13 LightsOut\obj\Debug\net8.0\2025_10_13 LightsOut.dll
+C:\Suli\13\Asztali\2025_10_13 LightsOut (1)\2025_10_13 LightsOut\2025_10_13 LightsOut\obj\Debug\net8.0\refint\2025_10_13 LightsOut.dll
+C:\Suli\13\Asztali\2025_10_13 LightsOut (1)\2025_10_13 LightsOut\2025_10_13 LightsOut\obj\Debug\net8.0\2025_10_13 LightsOut.pdb
+C:\Suli\13\Asztali\2025_10_13 LightsOut (1)\2025_10_13 LightsOut\2025_10_13 LightsOut\obj\Debug\net8.0\2025_10_13 LightsOut.genruntimeconfig.cache
+C:\Suli\13\Asztali\2025_10_13 LightsOut (1)\2025_10_13 LightsOut\2025_10_13 LightsOut\obj\Debug\net8.0\ref\2025_10_13 LightsOut.dll

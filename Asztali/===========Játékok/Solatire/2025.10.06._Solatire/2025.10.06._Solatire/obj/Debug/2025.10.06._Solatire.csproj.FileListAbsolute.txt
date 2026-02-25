@@ -1,0 +1,8 @@
+H:\13\Asztali\2025.10.06._Solatire\2025.10.06._Solatire\bin\Debug\2025.10.06._Solatire.exe.config
+H:\13\Asztali\2025.10.06._Solatire\2025.10.06._Solatire\bin\Debug\2025.10.06._Solatire.exe
+H:\13\Asztali\2025.10.06._Solatire\2025.10.06._Solatire\bin\Debug\2025.10.06._Solatire.pdb
+H:\13\Asztali\2025.10.06._Solatire\2025.10.06._Solatire\obj\Debug\2025.10.06._Solatire.csproj.AssemblyReference.cache
+H:\13\Asztali\2025.10.06._Solatire\2025.10.06._Solatire\obj\Debug\2025.10.06._Solatire.csproj.CoreCompileInputs.cache
+H:\13\Asztali\2025.10.06._Solatire\2025.10.06._Solatire\obj\Debug\2025.10.06._Solatire.exe
+H:\13\Asztali\2025.10.06._Solatire\2025.10.06._Solatire\obj\Debug\2025.10.06._Solatire.pdb
+H:\13\Asztali\2025.10.06._Solatire\2025.10.06._Solatire\obj\Debug\2025.10.06._Solatire.exe.config

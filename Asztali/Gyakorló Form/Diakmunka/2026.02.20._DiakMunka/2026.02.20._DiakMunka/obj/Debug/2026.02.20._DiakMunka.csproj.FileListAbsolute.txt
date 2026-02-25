@@ -1,0 +1,15 @@
+H:\13\Asztali\Diakmunka\2026.02.20._DiakMunka\2026.02.20._DiakMunka\bin\Debug\2026.02.20._DiakMunka.exe.config
+H:\13\Asztali\Diakmunka\2026.02.20._DiakMunka\2026.02.20._DiakMunka\bin\Debug\2026.02.20._DiakMunka.exe
+H:\13\Asztali\Diakmunka\2026.02.20._DiakMunka\2026.02.20._DiakMunka\bin\Debug\2026.02.20._DiakMunka.pdb
+H:\13\Asztali\Diakmunka\2026.02.20._DiakMunka\2026.02.20._DiakMunka\obj\Debug\2026.02.20._DiakMunka.csproj.AssemblyReference.cache
+H:\13\Asztali\Diakmunka\2026.02.20._DiakMunka\2026.02.20._DiakMunka\obj\Debug\MainWindow.g.cs
+H:\13\Asztali\Diakmunka\2026.02.20._DiakMunka\2026.02.20._DiakMunka\obj\Debug\App.g.cs
+H:\13\Asztali\Diakmunka\2026.02.20._DiakMunka\2026.02.20._DiakMunka\obj\Debug\2026.02.20._DiakMunka_MarkupCompile.cache
+H:\13\Asztali\Diakmunka\2026.02.20._DiakMunka\2026.02.20._DiakMunka\obj\Debug\2026.02.20._DiakMunka_MarkupCompile.lref
+H:\13\Asztali\Diakmunka\2026.02.20._DiakMunka\2026.02.20._DiakMunka\obj\Debug\MainWindow.baml
+H:\13\Asztali\Diakmunka\2026.02.20._DiakMunka\2026.02.20._DiakMunka\obj\Debug\2026.02.20._DiakMunka.g.resources
+H:\13\Asztali\Diakmunka\2026.02.20._DiakMunka\2026.02.20._DiakMunka\obj\Debug\_2026._02._20._DiakMunka.Properties.Resources.resources
+H:\13\Asztali\Diakmunka\2026.02.20._DiakMunka\2026.02.20._DiakMunka\obj\Debug\2026.02.20._DiakMunka.csproj.GenerateResource.cache
+H:\13\Asztali\Diakmunka\2026.02.20._DiakMunka\2026.02.20._DiakMunka\obj\Debug\2026.02.20._DiakMunka.csproj.CoreCompileInputs.cache
+H:\13\Asztali\Diakmunka\2026.02.20._DiakMunka\2026.02.20._DiakMunka\obj\Debug\2026.02.20._DiakMunka.exe
+H:\13\Asztali\Diakmunka\2026.02.20._DiakMunka\2026.02.20._DiakMunka\obj\Debug\2026.02.20._DiakMunka.pdb

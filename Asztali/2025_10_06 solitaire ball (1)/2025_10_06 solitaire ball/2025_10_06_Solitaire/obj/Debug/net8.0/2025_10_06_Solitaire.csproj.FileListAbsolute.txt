@@ -1,0 +1,29 @@
+H:\2025-2026\13.bc AAF mobil\2025_10_06_Solitaire ball\2025_10_06_Solitaire\bin\Debug\net8.0\2025_10_06_Solitaire.exe
+H:\2025-2026\13.bc AAF mobil\2025_10_06_Solitaire ball\2025_10_06_Solitaire\bin\Debug\net8.0\2025_10_06_Solitaire.deps.json
+H:\2025-2026\13.bc AAF mobil\2025_10_06_Solitaire ball\2025_10_06_Solitaire\bin\Debug\net8.0\2025_10_06_Solitaire.runtimeconfig.json
+H:\2025-2026\13.bc AAF mobil\2025_10_06_Solitaire ball\2025_10_06_Solitaire\bin\Debug\net8.0\2025_10_06_Solitaire.dll
+H:\2025-2026\13.bc AAF mobil\2025_10_06_Solitaire ball\2025_10_06_Solitaire\bin\Debug\net8.0\2025_10_06_Solitaire.pdb
+H:\2025-2026\13.bc AAF mobil\2025_10_06_Solitaire ball\2025_10_06_Solitaire\obj\Debug\net8.0\2025_10_06_Solitaire.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025-2026\13.bc AAF mobil\2025_10_06_Solitaire ball\2025_10_06_Solitaire\obj\Debug\net8.0\2025_10_06_Solitaire.AssemblyInfoInputs.cache
+H:\2025-2026\13.bc AAF mobil\2025_10_06_Solitaire ball\2025_10_06_Solitaire\obj\Debug\net8.0\2025_10_06_Solitaire.AssemblyInfo.cs
+H:\2025-2026\13.bc AAF mobil\2025_10_06_Solitaire ball\2025_10_06_Solitaire\obj\Debug\net8.0\2025_10_06_Solitaire.csproj.CoreCompileInputs.cache
+H:\2025-2026\13.bc AAF mobil\2025_10_06_Solitaire ball\2025_10_06_Solitaire\obj\Debug\net8.0\2025_10_06_Solitaire.dll
+H:\2025-2026\13.bc AAF mobil\2025_10_06_Solitaire ball\2025_10_06_Solitaire\obj\Debug\net8.0\refint\2025_10_06_Solitaire.dll
+H:\2025-2026\13.bc AAF mobil\2025_10_06_Solitaire ball\2025_10_06_Solitaire\obj\Debug\net8.0\2025_10_06_Solitaire.pdb
+H:\2025-2026\13.bc AAF mobil\2025_10_06_Solitaire ball\2025_10_06_Solitaire\obj\Debug\net8.0\2025_10_06_Solitaire.genruntimeconfig.cache
+H:\2025-2026\13.bc AAF mobil\2025_10_06_Solitaire ball\2025_10_06_Solitaire\obj\Debug\net8.0\ref\2025_10_06_Solitaire.dll
+H:\13\Asztali\2025_10_06 solitaire ball\2025_10_06_Solitaire\bin\Debug\net8.0\2025_10_06_Solitaire.exe
+H:\13\Asztali\2025_10_06 solitaire ball\2025_10_06_Solitaire\bin\Debug\net8.0\2025_10_06_Solitaire.deps.json
+H:\13\Asztali\2025_10_06 solitaire ball\2025_10_06_Solitaire\bin\Debug\net8.0\2025_10_06_Solitaire.runtimeconfig.json
+H:\13\Asztali\2025_10_06 solitaire ball\2025_10_06_Solitaire\bin\Debug\net8.0\2025_10_06_Solitaire.dll
+H:\13\Asztali\2025_10_06 solitaire ball\2025_10_06_Solitaire\bin\Debug\net8.0\2025_10_06_Solitaire.pdb
+H:\13\Asztali\2025_10_06 solitaire ball\2025_10_06_Solitaire\obj\Debug\net8.0\2025_10_06_Solitaire.GeneratedMSBuildEditorConfig.editorconfig
+H:\13\Asztali\2025_10_06 solitaire ball\2025_10_06_Solitaire\obj\Debug\net8.0\2025_10_06_Solitaire.AssemblyInfoInputs.cache
+H:\13\Asztali\2025_10_06 solitaire ball\2025_10_06_Solitaire\obj\Debug\net8.0\2025_10_06_Solitaire.AssemblyInfo.cs
+H:\13\Asztali\2025_10_06 solitaire ball\2025_10_06_Solitaire\obj\Debug\net8.0\2025_10_06_Solitaire.csproj.CoreCompileInputs.cache
+H:\13\Asztali\2025_10_06 solitaire ball\2025_10_06_Solitaire\obj\Debug\net8.0\2025_10_06_Solitaire.sourcelink.json
+H:\13\Asztali\2025_10_06 solitaire ball\2025_10_06_Solitaire\obj\Debug\net8.0\2025_10_06_Solitaire.dll
+H:\13\Asztali\2025_10_06 solitaire ball\2025_10_06_Solitaire\obj\Debug\net8.0\refint\2025_10_06_Solitaire.dll
+H:\13\Asztali\2025_10_06 solitaire ball\2025_10_06_Solitaire\obj\Debug\net8.0\2025_10_06_Solitaire.pdb
+H:\13\Asztali\2025_10_06 solitaire ball\2025_10_06_Solitaire\obj\Debug\net8.0\2025_10_06_Solitaire.genruntimeconfig.cache
+H:\13\Asztali\2025_10_06 solitaire ball\2025_10_06_Solitaire\obj\Debug\net8.0\ref\2025_10_06_Solitaire.dll

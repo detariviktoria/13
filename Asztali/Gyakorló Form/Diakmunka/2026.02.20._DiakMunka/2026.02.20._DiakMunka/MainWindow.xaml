@@ -1,0 +1,51 @@
+﻿<Window x:Class="_2026._02._20._DiakMunka.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2026._02._20._DiakMunka"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- ComboBox -->
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <Label Content="Szűrés típusa:" Width="100"/>
+            <ComboBox Name="cmbSzures" Width="200">
+                <ComboBoxItem Content="Munkaadó"/>
+                <ComboBoxItem Content="Elvégzendő feladat"/>
+                <ComboBoxItem Content="Feladat végzésének napja"/>
+            </ComboBox>
+        </StackPanel>
+
+        <!-- ListBoxok -->
+        <Grid Grid.Row="1" Margin="0,0,0,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <ListBox Name="lstSzurtLista" Grid.Column="0" Margin="5"/>
+            <ListBox Name="lstNevek" Grid.Column="1" Margin="5"/>
+        </Grid>
+
+        <!-- Adatok -->
+        <StackPanel Grid.Row="2">
+            <Label Name="lblNev" FontWeight="Bold" FontSize="14"/>
+            <TextBox Name="txtAdatok" Height="120" 
+                     TextWrapping="Wrap" 
+                     AcceptsReturn="True"
+                     VerticalScrollBarVisibility="Auto"/>
+
+            <Button Name="btnMentes" 
+                    Content="Adatok mentése" 
+                    Width="150" 
+                    Margin="0,10,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>

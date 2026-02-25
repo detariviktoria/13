@@ -1,0 +1,14 @@
+H:\2025-26\Asztali\2025.09.05._Nyuszimulátor\2025.09.05._Nyuszimulátor\bin\Debug\net8.0\2025.09.05._Nyuszimulátor.exe
+H:\2025-26\Asztali\2025.09.05._Nyuszimulátor\2025.09.05._Nyuszimulátor\bin\Debug\net8.0\2025.09.05._Nyuszimulátor.deps.json
+H:\2025-26\Asztali\2025.09.05._Nyuszimulátor\2025.09.05._Nyuszimulátor\bin\Debug\net8.0\2025.09.05._Nyuszimulátor.runtimeconfig.json
+H:\2025-26\Asztali\2025.09.05._Nyuszimulátor\2025.09.05._Nyuszimulátor\bin\Debug\net8.0\2025.09.05._Nyuszimulátor.dll
+H:\2025-26\Asztali\2025.09.05._Nyuszimulátor\2025.09.05._Nyuszimulátor\bin\Debug\net8.0\2025.09.05._Nyuszimulátor.pdb
+H:\2025-26\Asztali\2025.09.05._Nyuszimulátor\2025.09.05._Nyuszimulátor\obj\Debug\net8.0\2025.09.05._Nyuszimulátor.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025-26\Asztali\2025.09.05._Nyuszimulátor\2025.09.05._Nyuszimulátor\obj\Debug\net8.0\2025.09.05._Nyuszimulátor.AssemblyInfoInputs.cache
+H:\2025-26\Asztali\2025.09.05._Nyuszimulátor\2025.09.05._Nyuszimulátor\obj\Debug\net8.0\2025.09.05._Nyuszimulátor.AssemblyInfo.cs
+H:\2025-26\Asztali\2025.09.05._Nyuszimulátor\2025.09.05._Nyuszimulátor\obj\Debug\net8.0\2025.09.05._Nyuszimulátor.csproj.CoreCompileInputs.cache
+H:\2025-26\Asztali\2025.09.05._Nyuszimulátor\2025.09.05._Nyuszimulátor\obj\Debug\net8.0\2025.09.05._Nyuszimulátor.dll
+H:\2025-26\Asztali\2025.09.05._Nyuszimulátor\2025.09.05._Nyuszimulátor\obj\Debug\net8.0\refint\2025.09.05._Nyuszimulátor.dll
+H:\2025-26\Asztali\2025.09.05._Nyuszimulátor\2025.09.05._Nyuszimulátor\obj\Debug\net8.0\2025.09.05._Nyuszimulátor.pdb
+H:\2025-26\Asztali\2025.09.05._Nyuszimulátor\2025.09.05._Nyuszimulátor\obj\Debug\net8.0\2025.09.05._Nyuszimulátor.genruntimeconfig.cache
+H:\2025-26\Asztali\2025.09.05._Nyuszimulátor\2025.09.05._Nyuszimulátor\obj\Debug\net8.0\ref\2025.09.05._Nyuszimulátor.dll

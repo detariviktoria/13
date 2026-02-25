@@ -1,0 +1,11 @@
+Zárójel ellenőrzés
+
+(() {})
+((()){{})} 
+
+statikus osztály;
+metodus Ellenorzes(zarojelek))
+
+codeabbey.com 
+problems 19.
+Matching Brackets

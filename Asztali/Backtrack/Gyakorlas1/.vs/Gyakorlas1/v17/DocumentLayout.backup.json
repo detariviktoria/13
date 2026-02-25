@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\13\\Asztali\\Backtrack\\Gyakorlas1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0425F29-DD8B-40F5-B286-957540C8274D}|Gyakorlas1\\Gyakorlas1.csproj|h:\\13\\asztali\\backtrack\\gyakorlas1\\gyakorlas1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0425F29-DD8B-40F5-B286-957540C8274D}|Gyakorlas1\\Gyakorlas1.csproj|solutionrelative:gyakorlas1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\Backtrack\\Gyakorlas1\\Gyakorlas1\\Program.cs",
+              "RelativeDocumentMoniker": "Gyakorlas1\\Program.cs",
+              "ToolTip": "H:\\13\\Asztali\\Backtrack\\Gyakorlas1\\Gyakorlas1\\Program.cs*",
+              "RelativeToolTip": "Gyakorlas1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:19:55.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

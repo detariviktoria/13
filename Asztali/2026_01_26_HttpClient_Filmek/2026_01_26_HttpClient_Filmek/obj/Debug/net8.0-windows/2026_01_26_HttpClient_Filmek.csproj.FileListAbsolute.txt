@@ -1,0 +1,64 @@
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\bin\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.exe
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\bin\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.deps.json
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\bin\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.runtimeconfig.json
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\bin\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.dll
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\bin\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.pdb
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\App.g.cs
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek_MarkupCompile.cache
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek_MarkupCompile.lref
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\MainWindow.baml
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.g.resources
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.AssemblyInfoInputs.cache
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.AssemblyInfo.cs
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.csproj.CoreCompileInputs.cache
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.dll
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\refint\2026_01_26_HttpClient_Filmek.dll
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.pdb
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.genruntimeconfig.cache
+H:\2025-2026\13.bc AAF mobil\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\ref\2026_01_26_HttpClient_Filmek.dll
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\bin\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.exe
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\bin\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.deps.json
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\bin\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.runtimeconfig.json
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\bin\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.dll
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\bin\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.pdb
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\MainWindow.g.cs
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\App.g.cs
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek_MarkupCompile.cache
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek_MarkupCompile.lref
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\MainWindow.baml
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.g.resources
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.GeneratedMSBuildEditorConfig.editorconfig
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.AssemblyInfoInputs.cache
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.AssemblyInfo.cs
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.csproj.CoreCompileInputs.cache
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.sourcelink.json
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.dll
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\refint\2026_01_26_HttpClient_Filmek.dll
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.pdb
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.genruntimeconfig.cache
+H:\13\Asztali\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\ref\2026_01_26_HttpClient_Filmek.dll
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\bin\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.exe
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\bin\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.deps.json
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\bin\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.runtimeconfig.json
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\bin\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.dll
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\bin\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.pdb
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\App.g.cs
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek_MarkupCompile.cache
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek_MarkupCompile.lref
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\MainWindow.baml
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.g.resources
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.GeneratedMSBuildEditorConfig.editorconfig
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.AssemblyInfoInputs.cache
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.AssemblyInfo.cs
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.csproj.CoreCompileInputs.cache
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.dll
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\refint\2026_01_26_HttpClient_Filmek.dll
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.pdb
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\2026_01_26_HttpClient_Filmek.genruntimeconfig.cache
+C:\2026_01_26_HttpClient_Filmek\2026_01_26_HttpClient_Filmek\obj\Debug\net8.0-windows\ref\2026_01_26_HttpClient_Filmek.dll

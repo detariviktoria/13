@@ -1,0 +1,14 @@
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.0 dolgozat szélességi, mélységi\NyolcKiralyno\NyolcKiralyno\bin\Debug\net8.0\NyolcKiralyno.exe
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.0 dolgozat szélességi, mélységi\NyolcKiralyno\NyolcKiralyno\bin\Debug\net8.0\NyolcKiralyno.deps.json
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.0 dolgozat szélességi, mélységi\NyolcKiralyno\NyolcKiralyno\bin\Debug\net8.0\NyolcKiralyno.runtimeconfig.json
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.0 dolgozat szélességi, mélységi\NyolcKiralyno\NyolcKiralyno\bin\Debug\net8.0\NyolcKiralyno.dll
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.0 dolgozat szélességi, mélységi\NyolcKiralyno\NyolcKiralyno\bin\Debug\net8.0\NyolcKiralyno.pdb
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.0 dolgozat szélességi, mélységi\NyolcKiralyno\NyolcKiralyno\obj\Debug\net8.0\NyolcKiralyno.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.0 dolgozat szélességi, mélységi\NyolcKiralyno\NyolcKiralyno\obj\Debug\net8.0\NyolcKiralyno.AssemblyInfoInputs.cache
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.0 dolgozat szélességi, mélységi\NyolcKiralyno\NyolcKiralyno\obj\Debug\net8.0\NyolcKiralyno.AssemblyInfo.cs
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.0 dolgozat szélességi, mélységi\NyolcKiralyno\NyolcKiralyno\obj\Debug\net8.0\NyolcKiralyno.csproj.CoreCompileInputs.cache
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.0 dolgozat szélességi, mélységi\NyolcKiralyno\NyolcKiralyno\obj\Debug\net8.0\NyolcKiralyno.dll
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.0 dolgozat szélességi, mélységi\NyolcKiralyno\NyolcKiralyno\obj\Debug\net8.0\refint\NyolcKiralyno.dll
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.0 dolgozat szélességi, mélységi\NyolcKiralyno\NyolcKiralyno\obj\Debug\net8.0\NyolcKiralyno.pdb
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.0 dolgozat szélességi, mélységi\NyolcKiralyno\NyolcKiralyno\obj\Debug\net8.0\NyolcKiralyno.genruntimeconfig.cache
+H:\2025-2026\13.bc AAF mobil\--== Dolgozatok\2.0 dolgozat szélességi, mélységi\NyolcKiralyno\NyolcKiralyno\obj\Debug\net8.0\ref\NyolcKiralyno.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\13\\Asztali\\Backtrack\\Permut\u00E1cio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9DF6CF-B2D5-4CCE-A049-6BB9CF19B329}|Permut\u00E1cio\\Permut\u00E1cio.csproj|h:\\13\\asztali\\backtrack\\permut\u00E1cio\\permut\u00E1cio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9DF6CF-B2D5-4CCE-A049-6BB9CF19B329}|Permut\u00E1cio\\Permut\u00E1cio.csproj|solutionrelative:permut\u00E1cio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\Backtrack\\Permut\u00E1cio\\Permut\u00E1cio\\Program.cs",
+              "RelativeDocumentMoniker": "Permut\u00E1cio\\Program.cs",
+              "ToolTip": "H:\\13\\Asztali\\Backtrack\\Permut\u00E1cio\\Permut\u00E1cio\\Program.cs",
+              "RelativeToolTip": "Permut\u00E1cio\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T08:29:48.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

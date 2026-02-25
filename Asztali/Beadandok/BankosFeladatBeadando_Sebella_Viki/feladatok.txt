@@ -1,0 +1,21 @@
+- a tranzakciónál a típusnál is legyen legördülő mező (nehari tudom órán megcsináltad, de mivel most nem tudtam a tiedddel tovább foglalkozni csináltam egy picit másképpen remélem  nem baj) 
+- szerintem mivel benne volt hogy interface valahol lehet, kellene azzal is valamit kezdeni, de max megkérdezünk még valakit 
+- a tranzakciónál az van hogy lehessen tranzakciót felvinni (befizetés, kivét, átutalás) most nekünk csak a számlához hasonló felépítés van szerintem kiválasztható gombok közül ki kéne választani mit szeretnénk csinálni és úgy tovább 
+- lekérdezések, azok a szűrésnél lesznek, most csináltam párat, de kéne az ügyfél összes számlája és azok egyenlege, számla tranzakciói, negatív egyenlegű számlák listázása ( ez ott van, de lehet nem működik legalábbis nincs még negatív), napi/heti/havi tranzakciók szűrése
+----> ehhez lehet fel kellene tölteni pár elemmel  txt-ket nem? 
+!!!!!!
+- megjelenítésben: FORM
+- ugye kéri hogy egy adott ügyfél adatait pl számláit írassuk ki! 
+- szűrés: - ügyfél keresés név alapján!
+	  - számlák keresése számla típus vagy egyenleg tartomány alapján!
+	  - tranzakció dátum alapú szűrése!
+speciális lekérdezések: 
+ szűrés: - tülköltéss(negatív egyenleg)
+	- legnagyobb forgalmú ügyfél megkeresése (ez asszem megvan)
+	- adott időszak összes tranzakció kimutatása
+egyéb funkciók: 
+amúgy benne van a pdf-ben! 
+őszintén nagyrészt a console okés ott megvannak azok amiket fel kell használni, csak van pár dolog amit nem használtunk fel de azokat leírtam
+illetve ha látsz valamit amit máshogy csinálnál vagy plusz amit beleraknál csak nyugodtan!
+
+

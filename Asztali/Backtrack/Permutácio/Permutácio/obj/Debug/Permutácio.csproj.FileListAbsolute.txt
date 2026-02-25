@@ -1,0 +1,8 @@
+H:\13\Asztali\Backtrack\Permutácio\Permutácio\obj\Debug\Permutácio.csproj.AssemblyReference.cache
+H:\13\Asztali\Backtrack\Permutácio\Permutácio\obj\Debug\Permutácio.csproj.CoreCompileInputs.cache
+H:\13\Asztali\Backtrack\Permutácio\Permutácio\bin\Debug\Permutácio.exe.config
+H:\13\Asztali\Backtrack\Permutácio\Permutácio\bin\Debug\Permutácio.exe
+H:\13\Asztali\Backtrack\Permutácio\Permutácio\bin\Debug\Permutácio.pdb
+H:\13\Asztali\Backtrack\Permutácio\Permutácio\obj\Debug\Permutácio.exe
+H:\13\Asztali\Backtrack\Permutácio\Permutácio\obj\Debug\Permutácio.pdb
+H:\13\Asztali\Backtrack\Permutácio\Permutácio\obj\Debug\Permutácio.exe.config

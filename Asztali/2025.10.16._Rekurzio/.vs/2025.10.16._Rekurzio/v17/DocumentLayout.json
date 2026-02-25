@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\13\\Asztali\\2025.10.16._Rekurzio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA5C093C-851B-419C-89B3-8FCC56646751}|2025.10.16._Rekurzio\\2025.10.16._Rekurzio.csproj|h:\\13\\asztali\\2025.10.16._rekurzio\\2025.10.16._rekurzio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA5C093C-851B-419C-89B3-8FCC56646751}|2025.10.16._Rekurzio\\2025.10.16._Rekurzio.csproj|solutionrelative:2025.10.16._rekurzio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\2025.10.16._Rekurzio\\2025.10.16._Rekurzio\\Program.cs",
+              "RelativeDocumentMoniker": "2025.10.16._Rekurzio\\Program.cs",
+              "ToolTip": "H:\\13\\Asztali\\2025.10.16._Rekurzio\\2025.10.16._Rekurzio\\Program.cs",
+              "RelativeToolTip": "2025.10.16._Rekurzio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T09:14:45.937Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

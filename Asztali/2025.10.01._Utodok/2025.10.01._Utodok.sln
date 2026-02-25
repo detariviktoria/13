@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2025.10.01._Utodok", "2025.10.01._Utodok\2025.10.01._Utodok.csproj", "{787D82DE-1AED-4D6F-93ED-3120D2E59977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{787D82DE-1AED-4D6F-93ED-3120D2E59977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787D82DE-1AED-4D6F-93ED-3120D2E59977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787D82DE-1AED-4D6F-93ED-3120D2E59977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787D82DE-1AED-4D6F-93ED-3120D2E59977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70B2F6AB-754C-40F3-B678-1E326CAEC05C}
+	EndGlobalSection
+EndGlobal

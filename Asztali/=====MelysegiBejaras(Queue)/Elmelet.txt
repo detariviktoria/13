@@ -1,0 +1,23 @@
+1. Mi az a mélységi bejárás (DFS)?
+
+A mélységi bejárás egy gráfbejáró algoritmus, ami mindig a lehető legmélyebbre megy egy úton, mielőtt visszalép.
+
+Képzeld el, hogy egy labirintusban vagy:
+
+Mindig mész egyenesen, amíg tudsz.
+
+Ha zsákutcába jutsz, visszalépsz az utolsó elágazáshoz, és kipróbálod a másik irányt.
+
+👉 Ez a „visszalépés” (backtracking) miatt pont olyan, mint egy verem, hiszen mindig az utolsó választásodhoz térsz vissza.
+
+📦 2. Hogyan működik a DFS?
+
+Kezdőpontból indulunk.
+
+Meglátogatjuk a csúcsot, és megjelöljük meglátogatottnak.
+
+Kiválasztunk egy még nem látogatott szomszédot, és mélyebbre megyünk.
+
+Ha nincs több új szomszéd, visszalépünk.
+
+Addig ismételjük, amíg minden csúcsot be nem jártunk.

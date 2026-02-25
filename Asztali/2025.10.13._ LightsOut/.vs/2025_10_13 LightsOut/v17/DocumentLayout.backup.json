@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\2025-2026\\13.bc AAF mobil\\2025_10_13 L\u00E1mp\u00E1s j\u00E1t\u00E9k\\2025_10_13 LightsOut\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7E776E-4E2A-4A1C-BFF5-52CD30CE76FD}|2025_10_13 LightsOut\\2025_10_13 LightsOut.csproj|h:\\2025-2026\\13.bc aaf mobil\\2025_10_13 l\u00E1mp\u00E1s j\u00E1t\u00E9k\\2025_10_13 lightsout\\2025_10_13 lightsout\\allapot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7E776E-4E2A-4A1C-BFF5-52CD30CE76FD}|2025_10_13 LightsOut\\2025_10_13 LightsOut.csproj|solutionrelative:2025_10_13 lightsout\\allapot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7E776E-4E2A-4A1C-BFF5-52CD30CE76FD}|2025_10_13 LightsOut\\2025_10_13 LightsOut.csproj|h:\\2025-2026\\13.bc aaf mobil\\2025_10_13 l\u00E1mp\u00E1s j\u00E1t\u00E9k\\2025_10_13 lightsout\\2025_10_13 lightsout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7E776E-4E2A-4A1C-BFF5-52CD30CE76FD}|2025_10_13 LightsOut\\2025_10_13 LightsOut.csproj|solutionrelative:2025_10_13 lightsout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Allapot.cs",
+              "DocumentMoniker": "H:\\2025-2026\\13.bc AAF mobil\\2025_10_13 L\u00E1mp\u00E1s j\u00E1t\u00E9k\\2025_10_13 LightsOut\\2025_10_13 LightsOut\\Allapot.cs",
+              "RelativeDocumentMoniker": "2025_10_13 LightsOut\\Allapot.cs",
+              "ToolTip": "H:\\2025-2026\\13.bc AAF mobil\\2025_10_13 L\u00E1mp\u00E1s j\u00E1t\u00E9k\\2025_10_13 LightsOut\\2025_10_13 LightsOut\\Allapot.cs",
+              "RelativeToolTip": "2025_10_13 LightsOut\\Allapot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T08:59:39.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\2025-2026\\13.bc AAF mobil\\2025_10_13 L\u00E1mp\u00E1s j\u00E1t\u00E9k\\2025_10_13 LightsOut\\2025_10_13 LightsOut\\Program.cs",
+              "RelativeDocumentMoniker": "2025_10_13 LightsOut\\Program.cs",
+              "ToolTip": "H:\\2025-2026\\13.bc AAF mobil\\2025_10_13 L\u00E1mp\u00E1s j\u00E1t\u00E9k\\2025_10_13 LightsOut\\2025_10_13 LightsOut\\Program.cs",
+              "RelativeToolTip": "2025_10_13 LightsOut\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T12:32:30.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

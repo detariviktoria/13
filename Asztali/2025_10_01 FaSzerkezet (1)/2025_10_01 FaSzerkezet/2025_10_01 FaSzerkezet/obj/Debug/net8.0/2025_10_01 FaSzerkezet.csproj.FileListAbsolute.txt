@@ -1,0 +1,14 @@
+H:\2025-2026\13.bc AAF mobil\2025_10_01 FaSzerkezet\2025_10_01 FaSzerkezet\bin\Debug\net8.0\2025_10_01 FaSzerkezet.exe
+H:\2025-2026\13.bc AAF mobil\2025_10_01 FaSzerkezet\2025_10_01 FaSzerkezet\bin\Debug\net8.0\2025_10_01 FaSzerkezet.deps.json
+H:\2025-2026\13.bc AAF mobil\2025_10_01 FaSzerkezet\2025_10_01 FaSzerkezet\bin\Debug\net8.0\2025_10_01 FaSzerkezet.runtimeconfig.json
+H:\2025-2026\13.bc AAF mobil\2025_10_01 FaSzerkezet\2025_10_01 FaSzerkezet\bin\Debug\net8.0\2025_10_01 FaSzerkezet.dll
+H:\2025-2026\13.bc AAF mobil\2025_10_01 FaSzerkezet\2025_10_01 FaSzerkezet\bin\Debug\net8.0\2025_10_01 FaSzerkezet.pdb
+H:\2025-2026\13.bc AAF mobil\2025_10_01 FaSzerkezet\2025_10_01 FaSzerkezet\obj\Debug\net8.0\2025_10_01 FaSzerkezet.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025-2026\13.bc AAF mobil\2025_10_01 FaSzerkezet\2025_10_01 FaSzerkezet\obj\Debug\net8.0\2025_10_01 FaSzerkezet.AssemblyInfoInputs.cache
+H:\2025-2026\13.bc AAF mobil\2025_10_01 FaSzerkezet\2025_10_01 FaSzerkezet\obj\Debug\net8.0\2025_10_01 FaSzerkezet.AssemblyInfo.cs
+H:\2025-2026\13.bc AAF mobil\2025_10_01 FaSzerkezet\2025_10_01 FaSzerkezet\obj\Debug\net8.0\2025_10_01 FaSzerkezet.csproj.CoreCompileInputs.cache
+H:\2025-2026\13.bc AAF mobil\2025_10_01 FaSzerkezet\2025_10_01 FaSzerkezet\obj\Debug\net8.0\2025_10_01 FaSzerkezet.dll
+H:\2025-2026\13.bc AAF mobil\2025_10_01 FaSzerkezet\2025_10_01 FaSzerkezet\obj\Debug\net8.0\refint\2025_10_01 FaSzerkezet.dll
+H:\2025-2026\13.bc AAF mobil\2025_10_01 FaSzerkezet\2025_10_01 FaSzerkezet\obj\Debug\net8.0\2025_10_01 FaSzerkezet.pdb
+H:\2025-2026\13.bc AAF mobil\2025_10_01 FaSzerkezet\2025_10_01 FaSzerkezet\obj\Debug\net8.0\2025_10_01 FaSzerkezet.genruntimeconfig.cache
+H:\2025-2026\13.bc AAF mobil\2025_10_01 FaSzerkezet\2025_10_01 FaSzerkezet\obj\Debug\net8.0\ref\2025_10_01 FaSzerkezet.dll

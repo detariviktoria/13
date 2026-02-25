@@ -1,0 +1,14 @@
+H:\2025-2026\13.bc AAF mobil\2025_10_16 Rekurzio\2025_10_16 Rekurzio\bin\Debug\net8.0\2025_10_16 Rekurzio.exe
+H:\2025-2026\13.bc AAF mobil\2025_10_16 Rekurzio\2025_10_16 Rekurzio\bin\Debug\net8.0\2025_10_16 Rekurzio.deps.json
+H:\2025-2026\13.bc AAF mobil\2025_10_16 Rekurzio\2025_10_16 Rekurzio\bin\Debug\net8.0\2025_10_16 Rekurzio.runtimeconfig.json
+H:\2025-2026\13.bc AAF mobil\2025_10_16 Rekurzio\2025_10_16 Rekurzio\bin\Debug\net8.0\2025_10_16 Rekurzio.dll
+H:\2025-2026\13.bc AAF mobil\2025_10_16 Rekurzio\2025_10_16 Rekurzio\bin\Debug\net8.0\2025_10_16 Rekurzio.pdb
+H:\2025-2026\13.bc AAF mobil\2025_10_16 Rekurzio\2025_10_16 Rekurzio\obj\Debug\net8.0\2025_10_16 Rekurzio.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025-2026\13.bc AAF mobil\2025_10_16 Rekurzio\2025_10_16 Rekurzio\obj\Debug\net8.0\2025_10_16 Rekurzio.AssemblyInfoInputs.cache
+H:\2025-2026\13.bc AAF mobil\2025_10_16 Rekurzio\2025_10_16 Rekurzio\obj\Debug\net8.0\2025_10_16 Rekurzio.AssemblyInfo.cs
+H:\2025-2026\13.bc AAF mobil\2025_10_16 Rekurzio\2025_10_16 Rekurzio\obj\Debug\net8.0\2025_10_16 Rekurzio.csproj.CoreCompileInputs.cache
+H:\2025-2026\13.bc AAF mobil\2025_10_16 Rekurzio\2025_10_16 Rekurzio\obj\Debug\net8.0\2025_10_16 Rekurzio.dll
+H:\2025-2026\13.bc AAF mobil\2025_10_16 Rekurzio\2025_10_16 Rekurzio\obj\Debug\net8.0\refint\2025_10_16 Rekurzio.dll
+H:\2025-2026\13.bc AAF mobil\2025_10_16 Rekurzio\2025_10_16 Rekurzio\obj\Debug\net8.0\2025_10_16 Rekurzio.pdb
+H:\2025-2026\13.bc AAF mobil\2025_10_16 Rekurzio\2025_10_16 Rekurzio\obj\Debug\net8.0\2025_10_16 Rekurzio.genruntimeconfig.cache
+H:\2025-2026\13.bc AAF mobil\2025_10_16 Rekurzio\2025_10_16 Rekurzio\obj\Debug\net8.0\ref\2025_10_16 Rekurzio.dll

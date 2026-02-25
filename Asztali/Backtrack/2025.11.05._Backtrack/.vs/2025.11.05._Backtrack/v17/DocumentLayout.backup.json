@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\13\\Asztali\\Backtrack\\2025.11.05._Backtrack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B983E916-22A4-4729-B571-FC462F35F35C}|2025.11.05._Backtrack\\2025.11.05._Backtrack.csproj|h:\\13\\asztali\\backtrack\\2025.11.05._backtrack\\2025.11.05._backtrack\\backtrackrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B983E916-22A4-4729-B571-FC462F35F35C}|2025.11.05._Backtrack\\2025.11.05._Backtrack.csproj|solutionrelative:2025.11.05._backtrack\\backtrackrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B983E916-22A4-4729-B571-FC462F35F35C}|2025.11.05._Backtrack\\2025.11.05._Backtrack.csproj|h:\\13\\asztali\\backtrack\\2025.11.05._backtrack\\2025.11.05._backtrack\\cella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B983E916-22A4-4729-B571-FC462F35F35C}|2025.11.05._Backtrack\\2025.11.05._Backtrack.csproj|solutionrelative:2025.11.05._backtrack\\cella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B983E916-22A4-4729-B571-FC462F35F35C}|2025.11.05._Backtrack\\2025.11.05._Backtrack.csproj|h:\\13\\asztali\\backtrack\\2025.11.05._backtrack\\2025.11.05._backtrack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B983E916-22A4-4729-B571-FC462F35F35C}|2025.11.05._Backtrack\\2025.11.05._Backtrack.csproj|solutionrelative:2025.11.05._backtrack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cella.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\Backtrack\\2025.11.05._Backtrack\\2025.11.05._Backtrack\\Cella.cs",
+              "RelativeDocumentMoniker": "2025.11.05._Backtrack\\Cella.cs",
+              "ToolTip": "H:\\13\\Asztali\\Backtrack\\2025.11.05._Backtrack\\2025.11.05._Backtrack\\Cella.cs",
+              "RelativeToolTip": "2025.11.05._Backtrack\\Cella.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:44:51.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackTrackRun.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\Backtrack\\2025.11.05._Backtrack\\2025.11.05._Backtrack\\BackTrackRun.cs",
+              "RelativeDocumentMoniker": "2025.11.05._Backtrack\\BackTrackRun.cs",
+              "ToolTip": "H:\\13\\Asztali\\Backtrack\\2025.11.05._Backtrack\\2025.11.05._Backtrack\\BackTrackRun.cs",
+              "RelativeToolTip": "2025.11.05._Backtrack\\BackTrackRun.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:43:01.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\13\\Asztali\\Backtrack\\2025.11.05._Backtrack\\2025.11.05._Backtrack\\Program.cs",
+              "RelativeDocumentMoniker": "2025.11.05._Backtrack\\Program.cs",
+              "ToolTip": "H:\\13\\Asztali\\Backtrack\\2025.11.05._Backtrack\\2025.11.05._Backtrack\\Program.cs",
+              "RelativeToolTip": "2025.11.05._Backtrack\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T07:42:40.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

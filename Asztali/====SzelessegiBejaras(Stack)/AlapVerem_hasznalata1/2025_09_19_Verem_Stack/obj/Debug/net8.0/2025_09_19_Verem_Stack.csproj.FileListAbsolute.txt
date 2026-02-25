@@ -1,0 +1,14 @@
+H:\2025-2026\13.bc AAF mobil\2025_09_19_Verem_Stack\2025_09_19_Verem_Stack\bin\Debug\net8.0\2025_09_19_Verem_Stack.exe
+H:\2025-2026\13.bc AAF mobil\2025_09_19_Verem_Stack\2025_09_19_Verem_Stack\bin\Debug\net8.0\2025_09_19_Verem_Stack.deps.json
+H:\2025-2026\13.bc AAF mobil\2025_09_19_Verem_Stack\2025_09_19_Verem_Stack\bin\Debug\net8.0\2025_09_19_Verem_Stack.runtimeconfig.json
+H:\2025-2026\13.bc AAF mobil\2025_09_19_Verem_Stack\2025_09_19_Verem_Stack\bin\Debug\net8.0\2025_09_19_Verem_Stack.dll
+H:\2025-2026\13.bc AAF mobil\2025_09_19_Verem_Stack\2025_09_19_Verem_Stack\bin\Debug\net8.0\2025_09_19_Verem_Stack.pdb
+H:\2025-2026\13.bc AAF mobil\2025_09_19_Verem_Stack\2025_09_19_Verem_Stack\obj\Debug\net8.0\2025_09_19_Verem_Stack.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025-2026\13.bc AAF mobil\2025_09_19_Verem_Stack\2025_09_19_Verem_Stack\obj\Debug\net8.0\2025_09_19_Verem_Stack.AssemblyInfoInputs.cache
+H:\2025-2026\13.bc AAF mobil\2025_09_19_Verem_Stack\2025_09_19_Verem_Stack\obj\Debug\net8.0\2025_09_19_Verem_Stack.AssemblyInfo.cs
+H:\2025-2026\13.bc AAF mobil\2025_09_19_Verem_Stack\2025_09_19_Verem_Stack\obj\Debug\net8.0\2025_09_19_Verem_Stack.csproj.CoreCompileInputs.cache
+H:\2025-2026\13.bc AAF mobil\2025_09_19_Verem_Stack\2025_09_19_Verem_Stack\obj\Debug\net8.0\2025_09_19_Verem_Stack.dll
+H:\2025-2026\13.bc AAF mobil\2025_09_19_Verem_Stack\2025_09_19_Verem_Stack\obj\Debug\net8.0\refint\2025_09_19_Verem_Stack.dll
+H:\2025-2026\13.bc AAF mobil\2025_09_19_Verem_Stack\2025_09_19_Verem_Stack\obj\Debug\net8.0\2025_09_19_Verem_Stack.pdb
+H:\2025-2026\13.bc AAF mobil\2025_09_19_Verem_Stack\2025_09_19_Verem_Stack\obj\Debug\net8.0\2025_09_19_Verem_Stack.genruntimeconfig.cache
+H:\2025-2026\13.bc AAF mobil\2025_09_19_Verem_Stack\2025_09_19_Verem_Stack\obj\Debug\net8.0\ref\2025_09_19_Verem_Stack.dll

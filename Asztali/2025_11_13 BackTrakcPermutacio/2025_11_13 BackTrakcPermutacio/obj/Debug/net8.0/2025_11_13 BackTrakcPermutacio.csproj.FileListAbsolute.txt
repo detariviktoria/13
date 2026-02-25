@@ -1,0 +1,14 @@
+H:\2025-2026\13.bc AAF mobil\2025_11_13 BackTrakcPermutacio\2025_11_13 BackTrakcPermutacio\bin\Debug\net8.0\2025_11_13 BackTrakcPermutacio.exe
+H:\2025-2026\13.bc AAF mobil\2025_11_13 BackTrakcPermutacio\2025_11_13 BackTrakcPermutacio\bin\Debug\net8.0\2025_11_13 BackTrakcPermutacio.deps.json
+H:\2025-2026\13.bc AAF mobil\2025_11_13 BackTrakcPermutacio\2025_11_13 BackTrakcPermutacio\bin\Debug\net8.0\2025_11_13 BackTrakcPermutacio.runtimeconfig.json
+H:\2025-2026\13.bc AAF mobil\2025_11_13 BackTrakcPermutacio\2025_11_13 BackTrakcPermutacio\bin\Debug\net8.0\2025_11_13 BackTrakcPermutacio.dll
+H:\2025-2026\13.bc AAF mobil\2025_11_13 BackTrakcPermutacio\2025_11_13 BackTrakcPermutacio\bin\Debug\net8.0\2025_11_13 BackTrakcPermutacio.pdb
+H:\2025-2026\13.bc AAF mobil\2025_11_13 BackTrakcPermutacio\2025_11_13 BackTrakcPermutacio\obj\Debug\net8.0\2025_11_13 BackTrakcPermutacio.GeneratedMSBuildEditorConfig.editorconfig
+H:\2025-2026\13.bc AAF mobil\2025_11_13 BackTrakcPermutacio\2025_11_13 BackTrakcPermutacio\obj\Debug\net8.0\2025_11_13 BackTrakcPermutacio.AssemblyInfoInputs.cache
+H:\2025-2026\13.bc AAF mobil\2025_11_13 BackTrakcPermutacio\2025_11_13 BackTrakcPermutacio\obj\Debug\net8.0\2025_11_13 BackTrakcPermutacio.AssemblyInfo.cs
+H:\2025-2026\13.bc AAF mobil\2025_11_13 BackTrakcPermutacio\2025_11_13 BackTrakcPermutacio\obj\Debug\net8.0\2025_11_13 BackTrakcPermutacio.csproj.CoreCompileInputs.cache
+H:\2025-2026\13.bc AAF mobil\2025_11_13 BackTrakcPermutacio\2025_11_13 BackTrakcPermutacio\obj\Debug\net8.0\2025_11_13 BackTrakcPermutacio.dll
+H:\2025-2026\13.bc AAF mobil\2025_11_13 BackTrakcPermutacio\2025_11_13 BackTrakcPermutacio\obj\Debug\net8.0\refint\2025_11_13 BackTrakcPermutacio.dll
+H:\2025-2026\13.bc AAF mobil\2025_11_13 BackTrakcPermutacio\2025_11_13 BackTrakcPermutacio\obj\Debug\net8.0\2025_11_13 BackTrakcPermutacio.pdb
+H:\2025-2026\13.bc AAF mobil\2025_11_13 BackTrakcPermutacio\2025_11_13 BackTrakcPermutacio\obj\Debug\net8.0\2025_11_13 BackTrakcPermutacio.genruntimeconfig.cache
+H:\2025-2026\13.bc AAF mobil\2025_11_13 BackTrakcPermutacio\2025_11_13 BackTrakcPermutacio\obj\Debug\net8.0\ref\2025_11_13 BackTrakcPermutacio.dll
