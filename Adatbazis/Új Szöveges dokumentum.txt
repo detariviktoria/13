@@ -1,0 +1,8 @@
+
+use kg_bank => belépés az adatbázisban
+show tables => kilistázni az adatbázis tábláit
+start transaction; => auto kommitot alapbol nullára rakná de nálunk nem 
+COMMIT => lezárul a tranzakcióm
+START TRANSACTION;
+ROLLBACK => állítsd vissza 
+

@@ -1,0 +1,26 @@
+DELIMITER //
+CREATE TRIGGER register 
+/* BEFORE || AFTER */
+AFTER INSERT 
+/* INSERT || UPDATE || DELETE */
+ON users 
+FOR EACH ROW 
+BEGIN
+    INSERT INTO logok("ID", "message") 
+    VALUES (NULL, CONCAT("Regisztráció történt:", CURRENT_TIMESTAMP))
+END; // 
+
+DELIMITER;
+
+
+DELIMITER /
+
+CREATE TRIGGER register
+AFTER INSERT ON users
+FOR EACH ROW
+BEGIN
+	INSERT INTO logok (ID, message)
+    VALUES(NULL, NEW.name);
+END/
+
+DELIMITER ;
