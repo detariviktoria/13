@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Animal Starter Page</title>
+</head>
+<body>
+    <p>Üdv az állat start oldalon!</p>
+
+    <table style="border: 2px solid black">
+        <thead>
+            <th>Name</th>
+            <th>Bday</th>
+            <th>CA</th>
+        </thead>
+        <tbody>
+            <% for(let animal of animals){ %>
+                <td><%= animal.name %></td>
+            <%}%>
+        </tbody>
+    </table>
+
+    <%- include("../../partials/footer"); %>
+
+</body>
+</html>

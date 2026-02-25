@@ -1,0 +1,19 @@
+Rövid magyarázat
+
+server.js – indítja a szervert
+
+app.js – Express app, route-ok, middleware-ek
+
+routes/ – HTTP végpontok (GET, POST, stb.)
+
+controllers/ – request-ek kezelése, service hívása
+
+services/ – üzleti logika, validáció
+
+repositories/ – közvetlen adatbázis műveletek
+
+models/ – Sequelize modellek és index export
+
+middlewares/ – hibakezelő, auth (ha lenne)
+
+errors/ – egyedi hibák

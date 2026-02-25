@@ -1,0 +1,20 @@
+table, th, td, tr, caption
+{
+    border: 2px solid black;
+}
+
+caption
+{
+    border-bottom: none;
+}
+
+main
+{
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
